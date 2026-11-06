@@ -293,10 +293,6 @@ Hardware used: one NVIDIA RTX PRO 5000 (48 GB). Mean latency per query: naive 0.
 
 Team-authored benchmark (≈ ±10 pt confidence intervals per model) · regular document headers and explicit supersession sentences make extraction and detection easier than in the wild · single deterministic run · 14 % of labels from an LLM judge · 35B detector model · English, short documents, single-hop questions · fixed "present" of 2026-01-01.
 
-## Reports
-
-- [`TVA_RAG_Final_Report.pdf`](report/TVA_RAG_Final_Report.pdf) · [`.tex`](report/TVA_RAG_Final_Report.tex) (Overleaf-ready, self-contained TikZ + pgfplots) · [`.md`](report/TVA_RAG_Final_Report.md)
-- Problem-statement survey that led to this project: [`RAG_Problem_Statements_Report.md`](report/RAG_Problem_Statements_Report.md)
 
 ## Key references
 
