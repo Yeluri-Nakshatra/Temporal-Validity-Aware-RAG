@@ -303,5 +303,3 @@ Team-authored benchmark (≈ ±10 pt confidence intervals per model) · regular 
 1. Stale-Document Poisoning: When Outdated Retrieval Overrides Correct Model Answers — arXiv:2609.31342 (2026)
 2. ConflictRAG — arXiv:2605.17301 (2026) · EvoTrustRAG — arXiv:2608.07933 (2026) · ArbGraph — arXiv:2604.18362 (2026)
 3. Retrieval-State Lock-In — arXiv:2606.22728 (2026) · Know Before You Fetch — arXiv:2606.29959 (2026) · TARG — arXiv:2511.09803 (2025)
-
-<div align="center"><sub>Built as a college major project · November 2026</sub></div>
