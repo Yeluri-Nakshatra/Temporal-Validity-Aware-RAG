@@ -1,0 +1,17 @@
+component,metric,value,n
+temporal extractor (regex),anchor-date accuracy (all docs),1.0,162
+temporal extractor (regex),correct 'unknown' on undated docs,1.0,7
+"temporal extractor (LLM fallback, llama3.1:8b)",hallucinated a date on undated docs,0.0,7
+retrieval (bm25),recall@5 of current doc,0.9859154929577465,71
+retrieval (bm25),recall@5 of stale doc,0.9577464788732394,71
+retrieval (bm25),recall@5 of both docs,0.9436619718309859,71
+retrieval (dense),recall@5 of current doc,1.0,71
+retrieval (dense),recall@5 of stale doc,1.0,71
+retrieval (dense),recall@5 of both docs,1.0,71
+retrieval (hybrid),recall@5 of current doc,1.0,71
+retrieval (hybrid),recall@5 of stale doc,0.9859154929577465,71
+retrieval (hybrid),recall@5 of both docs,0.9859154929577465,71
+conflict detector,pair precision,0.9217391304347826,115
+conflict detector,pair recall,0.7571428571428571,140
+conflict detector,pair F1,0.8313725490196079,149
+status assignment,item-doc status correct,0.8483412322274881,211

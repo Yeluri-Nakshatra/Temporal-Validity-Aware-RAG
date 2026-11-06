@@ -1,0 +1,4027 @@
+{
+ "reversals": [
+  {
+   "id": "sci-pluto",
+   "domain": "science",
+   "question": "How is Pluto classified by the International Astronomical Union?",
+   "old": {
+    "answer": "a planet (the ninth planet of the Solar System)",
+    "aliases": [
+     "ninth planet",
+     "a planet",
+     "planet of the solar system"
+    ],
+    "title": "Introduction to the Solar System: the nine planets",
+    "date": "1999-03-10",
+    "body": "The Solar System contains nine planets orbiting the Sun. In order from the Sun they are Mercury, Venus, Earth, Mars, Jupiter, Saturn, Uranus, Neptune and Pluto. Pluto, discovered in 1930 by Clyde Tombaugh, is the smallest and most distant planet and is classified as a planet by the International Astronomical Union."
+   },
+   "new": {
+    "answer": "a dwarf planet",
+    "aliases": [
+     "dwarf planet"
+    ],
+    "title": "IAU General Assembly resolution on the definition of a planet",
+    "date": "2006-08-24",
+    "body": "The International Astronomical Union has adopted a formal definition of the term planet. Under the new definition a planet must orbit the Sun, be nearly round, and have cleared the neighbourhood around its orbit. Pluto does not meet the third criterion and is therefore reclassified as a dwarf planet. The Solar System now has eight planets.",
+    "effective": null
+   },
+   "change_date": "2006-08-24",
+   "undated_old": false,
+   "t_past": null
+  },
+  {
+   "id": "sci-kilogram",
+   "domain": "science",
+   "question": "How is the kilogram defined in the International System of Units (SI)?",
+   "old": {
+    "answer": "as the mass of the International Prototype Kilogram, a platinum-iridium cylinder kept near Paris",
+    "aliases": [
+     "international prototype",
+     "platinum",
+     "prototype kilogram",
+     "physical artefact",
+     "physical artifact",
+     "cylinder"
+    ],
+    "title": "SI base units explained: the kilogram",
+    "date": "2012-06-05",
+    "body": "The kilogram is the only SI base unit still defined by a physical artefact. It is equal to the mass of the International Prototype Kilogram, a cylinder of platinum-iridium alloy kept at the International Bureau of Weights and Measures near Paris. National copies are periodically compared against the prototype."
+   },
+   "new": {
+    "answer": "by fixing the numerical value of the Planck constant",
+    "aliases": [
+     "planck"
+    ],
+    "title": "Redefinition of the SI base units comes into force",
+    "date": "2019-05-20",
+    "body": "The revised International System of Units is now in force. The kilogram is defined by taking the fixed numerical value of the Planck constant h to be 6.62607015 x 10^-34 joule seconds. The International Prototype Kilogram no longer has any role in the definition of the unit. This notice supersedes earlier descriptions of the kilogram as an artefact-based unit.",
+    "effective": "2019-05-20"
+   },
+   "change_date": "2019-05-20",
+   "undated_old": false,
+   "t_past": null
+  },
+  {
+   "id": "sci-elements",
+   "domain": "science",
+   "question": "How many chemical elements are officially named and recognised by IUPAC in the periodic table?",
+   "old": {
+    "answer": "114",
+    "aliases": [
+     "114",
+     "one hundred and fourteen"
+    ],
+    "title": "Status of the periodic table: named elements",
+    "date": "2013-02-18",
+    "body": "The periodic table currently contains 114 officially named elements, the most recent additions being flerovium (element 114) and livermorium (element 116). Claims for elements 113, 115, 117 and 118 remain under review and these elements have not yet been formally recognised or named."
+   },
+   "new": {
+    "answer": "118",
+    "aliases": [
+     "118",
+     "one hundred and eighteen"
+    ],
+    "title": "IUPAC announces the names of four new elements",
+    "date": "2016-11-28",
+    "body": "IUPAC has approved the names nihonium (113), moscovium (115), tennessine (117) and oganesson (118). With these additions the seventh row of the periodic table is complete and the table now contains 118 officially named elements. This announcement supersedes the earlier provisional status of these elements.",
+    "effective": null
+   },
+   "change_date": "2016-11-28",
+   "undated_old": false,
+   "t_past": null
+  },
+  {
+   "id": "sci-tallest",
+   "domain": "science",
+   "question": "What is the tallest building in the world?",
+   "old": {
+    "answer": "Taipei 101",
+    "aliases": [
+     "taipei"
+    ],
+    "title": "World's tallest buildings: a record list",
+    "date": "2007-04-02",
+    "body": "At 508 metres including its spire, Taipei 101 in Taiwan holds the title of the world's tallest building, a record it has held since its completion. It surpassed the Petronas Towers in Kuala Lumpur, which previously held the record."
+   },
+   "new": {
+    "answer": "the Burj Khalifa in Dubai",
+    "aliases": [
+     "burj khalifa",
+     "burj"
+    ],
+    "title": "Burj Khalifa officially opened as the world's tallest building",
+    "date": "2010-01-04",
+    "body": "The Burj Khalifa in Dubai has been officially inaugurated and, at 828 metres, is now the tallest building in the world by a wide margin. It replaces Taipei 101 as the record holder.",
+    "effective": null
+   },
+   "change_date": "2010-01-04",
+   "undated_old": false,
+   "t_past": null
+  },
+  {
+   "id": "sci-saturn-moons",
+   "domain": "science",
+   "question": "How many confirmed moons does Saturn have?",
+   "old": {
+    "answer": "146",
+    "aliases": [
+     "146",
+     "one hundred and forty-six"
+    ],
+    "title": "Saturn overtakes Jupiter with 146 confirmed moons",
+    "date": "2023-05-12",
+    "body": "Following the recognition of 62 newly confirmed satellites by the Minor Planet Center, Saturn now has 146 confirmed moons, the most of any planet in the Solar System, ahead of Jupiter."
+   },
+   "new": {
+    "answer": "274",
+    "aliases": [
+     "274",
+     "two hundred and seventy-four"
+    ],
+    "title": "128 new moons of Saturn confirmed, bringing the total to 274",
+    "date": "2025-03-11",
+    "body": "The International Astronomical Union's Minor Planet Center has ratified 128 additional moons of Saturn discovered using the Canada-France-Hawaii Telescope. Saturn's confirmed moon count rises to 274. This supersedes the previously reported total.",
+    "effective": null
+   },
+   "change_date": "2025-03-11",
+   "undated_old": false,
+   "t_past": null
+  },
+  {
+   "id": "sw-python2",
+   "domain": "software",
+   "question": "Is Python 2 still officially supported by the Python core developers?",
+   "old": {
+    "answer": "yes, Python 2.7 continues to receive maintenance and security updates",
+    "aliases": [
+     "yes",
+     "supported",
+     "continues to receive",
+     "maintained"
+    ],
+    "title": "Python 2.7 maintenance status",
+    "date": "2015-04-14",
+    "body": "Python 2.7 remains an officially supported release series. The core developers continue to publish bug-fix and security releases of Python 2.7, and users may continue to rely on it in production. Python 3 is recommended for new projects."
+   },
+   "new": {
+    "answer": "no, Python 2 has reached end of life and is no longer supported",
+    "aliases": [
+     "end of life",
+     "end-of-life",
+     "no longer supported",
+     "not supported",
+     "unsupported",
+     "eol"
+    ],
+    "title": "Sunsetting Python 2: end of life reached",
+    "date": "2020-01-01",
+    "body": "Python 2 has reached its end of life. The core developers no longer provide any updates, bug fixes or security patches for Python 2.7. All users should migrate to Python 3. This notice supersedes earlier statements about continued Python 2.7 maintenance.",
+    "effective": null
+   },
+   "change_date": "2020-01-01",
+   "undated_old": true,
+   "t_past": null
+  },
+  {
+   "id": "sw-github-branch",
+   "domain": "software",
+   "question": "What is the default branch name for new repositories created on GitHub?",
+   "old": {
+    "answer": "master",
+    "aliases": [
+     "master"
+    ],
+    "title": "Creating a repository on GitHub",
+    "date": "2019-02-11",
+    "body": "When you create a new repository on GitHub, an initial branch named master is created automatically. Commits are added to master unless you create and switch to another branch."
+   },
+   "new": {
+    "answer": "main",
+    "aliases": [
+     "main"
+    ],
+    "title": "GitHub changes the default branch name for new repositories to main",
+    "date": "2020-10-01",
+    "body": "All new repositories created on GitHub now use main as the name of the default branch instead of master. Existing repositories are not affected unless their owners rename the branch. This supersedes the earlier default.",
+    "effective": null
+   },
+   "change_date": "2020-10-01",
+   "undated_old": false,
+   "t_past": null
+  },
+  {
+   "id": "sw-twitter-x",
+   "domain": "software",
+   "question": "What is the current brand name of the social media platform originally launched as Twitter?",
+   "old": {
+    "answer": "Twitter",
+    "aliases": [
+     "twitter"
+    ],
+    "title": "About Twitter",
+    "date": "2021-06-30",
+    "body": "Twitter is a microblogging and social networking service on which users post and interact with short messages known as tweets. The service is operated by Twitter, Inc. and uses a blue bird as its logo."
+   },
+   "new": {
+    "answer": "X",
+    "aliases": [
+     "x"
+    ],
+    "title": "Twitter rebrands as X",
+    "date": "2023-07-24",
+    "body": "The platform formerly known as Twitter has been rebranded as X. The blue bird logo has been retired and replaced by a stylised letter X, and the service is now operated by X Corp. This supersedes all earlier branding.",
+    "effective": null
+   },
+   "change_date": "2023-07-24",
+   "undated_old": false,
+   "t_past": null
+  },
+  {
+   "id": "sw-meta",
+   "domain": "software",
+   "question": "What is the name of the parent company of Facebook, Instagram and WhatsApp?",
+   "old": {
+    "answer": "Facebook, Inc.",
+    "aliases": [
+     "facebook, inc",
+     "facebook inc",
+     "facebook"
+    ],
+    "title": "Facebook, Inc. corporate overview",
+    "date": "2020-09-15",
+    "body": "Facebook, Inc. is the parent company that owns and operates the Facebook social network as well as Instagram, WhatsApp and Messenger. The company is headquartered in Menlo Park, California."
+   },
+   "new": {
+    "answer": "Meta Platforms, Inc.",
+    "aliases": [
+     "meta"
+    ],
+    "title": "Facebook company changes its name to Meta",
+    "date": "2021-10-28",
+    "body": "The company formerly known as Facebook, Inc. has changed its corporate name to Meta Platforms, Inc. Meta is now the parent company of the Facebook app, Instagram, WhatsApp and Messenger. This announcement supersedes earlier corporate naming.",
+    "effective": null
+   },
+   "change_date": "2021-10-28",
+   "undated_old": false,
+   "t_past": null
+  },
+  {
+   "id": "sw-java-cadence",
+   "domain": "software",
+   "question": "How often are new feature releases of the Java Development Kit (JDK) published?",
+   "old": {
+    "answer": "roughly every two to three years",
+    "aliases": [
+     "two to three years",
+     "2-3 years",
+     "every few years",
+     "several years"
+    ],
+    "title": "Java SE release model",
+    "date": "2016-05-20",
+    "body": "Major releases of Java SE are feature-driven and ship roughly every two to three years, after all planned features are complete. Java SE 8 shipped in 2014 and Java SE 9 is planned for a later date once its major features are finished."
+   },
+   "new": {
+    "answer": "every six months",
+    "aliases": [
+     "six months",
+     "6 months",
+     "twice a year"
+    ],
+    "title": "Faster, time-based Java release cadence announced",
+    "date": "2017-09-21",
+    "body": "Beginning with JDK 10, Java will move to a strict time-based release model with a new feature release every six months, in March and September. Long-term support releases will be designated every few years. This supersedes the previous feature-driven multi-year cadence.",
+    "effective": null
+   },
+   "change_date": "2017-09-21",
+   "undated_old": false,
+   "t_past": null
+  },
+  {
+   "id": "sw-angularjs",
+   "domain": "software",
+   "question": "Is AngularJS (Angular 1.x) still receiving official support from the Angular team?",
+   "old": {
+    "answer": "yes, AngularJS is in long-term support",
+    "aliases": [
+     "yes",
+     "long-term support",
+     "long term support",
+     "lts",
+     "supported"
+    ],
+    "title": "AngularJS long-term support",
+    "date": "2019-07-01",
+    "body": "AngularJS is in a long-term support period. During this period the team publishes releases that fix security issues, browser compatibility problems and incompatibilities with jQuery updates. Applications on AngularJS remain supported."
+   },
+   "new": {
+    "answer": "no, AngularJS support has ended",
+    "aliases": [
+     "ended",
+     "no longer",
+     "end of life",
+     "not supported",
+     "discontinued",
+     "unsupported"
+    ],
+    "title": "AngularJS long-term support ends",
+    "date": "2022-01-01",
+    "body": "The long-term support period for AngularJS has ended. The Angular team no longer publishes updates, security fixes or releases for AngularJS. Users are advised to migrate to Angular. This supersedes earlier support commitments.",
+    "effective": null
+   },
+   "change_date": "2022-01-01",
+   "undated_old": false,
+   "t_past": null
+  },
+  {
+   "id": "sw-ubuntu-desktop",
+   "domain": "software",
+   "question": "What is the default desktop environment of Ubuntu?",
+   "old": {
+    "answer": "Unity",
+    "aliases": [
+     "unity"
+    ],
+    "title": "Ubuntu desktop overview",
+    "date": "2016-04-21",
+    "body": "Ubuntu ships with Unity as its default desktop environment. Unity, developed by Canonical, features a launcher on the left side of the screen and a top panel with global menus."
+   },
+   "new": {
+    "answer": "GNOME",
+    "aliases": [
+     "gnome"
+    ],
+    "title": "Ubuntu 17.10 released with GNOME as the default desktop",
+    "date": "2017-10-19",
+    "body": "Ubuntu now uses GNOME as its default desktop environment. Canonical has discontinued development of Unity and all new Ubuntu desktop releases ship with GNOME Shell. This supersedes earlier documentation describing Unity as the default.",
+    "effective": null
+   },
+   "change_date": "2017-10-19",
+   "undated_old": false,
+   "t_past": null
+  },
+  {
+   "id": "sw-ie11",
+   "domain": "software",
+   "question": "Is Internet Explorer 11 a supported Microsoft web browser?",
+   "old": {
+    "answer": "yes, Internet Explorer 11 is supported",
+    "aliases": [
+     "yes",
+     "supported",
+     "continues to be supported"
+    ],
+    "title": "Internet Explorer 11 support lifecycle",
+    "date": "2019-03-05",
+    "body": "Internet Explorer 11 is a supported component of Windows and continues to receive security updates through Windows Update. Organisations may continue to deploy Internet Explorer 11 for legacy web applications."
+   },
+   "new": {
+    "answer": "no, Internet Explorer 11 has been retired",
+    "aliases": [
+     "retired",
+     "no longer supported",
+     "not supported",
+     "end of support",
+     "discontinued",
+     "disabled"
+    ],
+    "title": "Internet Explorer 11 desktop application retired",
+    "date": "2022-06-15",
+    "body": "The Internet Explorer 11 desktop application is retired and out of support. Users are redirected to Microsoft Edge, which includes an Internet Explorer mode for legacy sites. This notice supersedes previous lifecycle guidance for Internet Explorer 11.",
+    "effective": null
+   },
+   "change_date": "2022-06-15",
+   "undated_old": false,
+   "t_past": null
+  },
+  {
+   "id": "sw-docker-desktop",
+   "domain": "software",
+   "question": "Is Docker Desktop free to use inside large companies with more than 250 employees or more than 10 million dollars in revenue?",
+   "old": {
+    "answer": "yes, Docker Desktop is free for all users",
+    "aliases": [
+     "yes",
+     "free for all",
+     "free to use",
+     "no charge",
+     "free of charge"
+    ],
+    "title": "Docker Desktop licensing",
+    "date": "2020-08-10",
+    "body": "Docker Desktop is available free of charge for all users, including individuals, small businesses and large enterprises. There is no licensing fee for commercial use."
+   },
+   "new": {
+    "answer": "no, large companies need a paid subscription",
+    "aliases": [
+     "paid",
+     "subscription",
+     "requires a license",
+     "requires a licence",
+     "not free",
+     "no longer free"
+    ],
+    "title": "Docker Desktop subscription requirement for large organisations",
+    "date": "2022-01-31",
+    "body": "Docker Desktop now requires a paid Docker subscription for professional use in organisations with more than 250 employees or more than 10 million US dollars in annual revenue. It remains free for personal use, education, non-commercial open source projects and small businesses. This supersedes earlier free-for-all licensing.",
+    "effective": "2022-01-31"
+   },
+   "change_date": "2022-01-31",
+   "undated_old": false,
+   "t_past": null
+  },
+  {
+   "id": "sw-react-hooks",
+   "domain": "software",
+   "question": "What is the recommended way to use state and lifecycle features in React function components?",
+   "old": {
+    "answer": "it is not possible; class components must be used for state and lifecycle",
+    "aliases": [
+     "not possible",
+     "class component",
+     "cannot",
+     "must use class",
+     "only class"
+    ],
+    "title": "React components: function versus class",
+    "date": "2018-06-12",
+    "body": "Function components in React are stateless. If a component needs local state or lifecycle methods, it must be written as a class component extending React.Component. There is no way to use state inside a function component."
+   },
+   "new": {
+    "answer": "React Hooks such as useState and useEffect",
+    "aliases": [
+     "hook",
+     "usestate",
+     "useeffect"
+    ],
+    "title": "Introducing Hooks in React 16.8",
+    "date": "2019-02-06",
+    "body": "React 16.8 introduces Hooks. Hooks such as useState and useEffect let function components use state and other React features without writing a class. Hooks are now the recommended approach for new components. This supersedes earlier guidance that state requires class components.",
+    "effective": null
+   },
+   "change_date": "2019-02-06",
+   "undated_old": false,
+   "t_past": null
+  },
+  {
+   "id": "sw-centos8",
+   "domain": "software",
+   "question": "Is CentOS Linux 8 still receiving updates?",
+   "old": {
+    "answer": "yes, CentOS Linux 8 is supported",
+    "aliases": [
+     "yes",
+     "supported",
+     "receives updates",
+     "receiving updates"
+    ],
+    "title": "CentOS Linux 8 lifecycle",
+    "date": "2020-05-18",
+    "body": "CentOS Linux 8 is a community rebuild of Red Hat Enterprise Linux 8 and receives security and bug-fix updates as a supported distribution for production servers."
+   },
+   "new": {
+    "answer": "no, CentOS Linux 8 has reached end of life",
+    "aliases": [
+     "end of life",
+     "eol",
+     "no longer",
+     "ended",
+     "discontinued",
+     "not supported"
+    ],
+    "title": "CentOS Linux 8 end of life",
+    "date": "2021-12-31",
+    "body": "CentOS Linux 8 has reached its end of life and no longer receives updates of any kind. The project has shifted to CentOS Stream. Users should migrate to CentOS Stream or another distribution. This supersedes earlier lifecycle statements.",
+    "effective": null
+   },
+   "change_date": "2021-12-31",
+   "undated_old": true,
+   "t_past": null
+  },
+  {
+   "id": "sw-tls",
+   "domain": "software",
+   "question": "Are TLS 1.0 and TLS 1.1 approved protocol versions according to the IETF?",
+   "old": {
+    "answer": "yes, they remain valid protocol versions",
+    "aliases": [
+     "yes",
+     "valid",
+     "approved",
+     "may be used",
+     "acceptable",
+     "remain"
+    ],
+    "title": "TLS protocol versions in use",
+    "date": "2017-02-20",
+    "body": "TLS 1.0, TLS 1.1 and TLS 1.2 are all valid published versions of the Transport Layer Security protocol. Servers commonly support all three versions for compatibility."
+   },
+   "new": {
+    "answer": "no, TLS 1.0 and TLS 1.1 are formally deprecated",
+    "aliases": [
+     "deprecated",
+     "must not",
+     "should not",
+     "no longer",
+     "obsolete",
+     "not approved"
+    ],
+    "title": "RFC 8996: Deprecating TLS 1.0 and TLS 1.1",
+    "date": "2021-03-23",
+    "body": "The IETF has formally deprecated TLS 1.0 and TLS 1.1. These versions must not be used, and implementations should negotiate only TLS 1.2 or later. This document supersedes earlier guidance permitting these versions.",
+    "effective": null
+   },
+   "change_date": "2021-03-23",
+   "undated_old": false,
+   "t_past": null
+  },
+  {
+   "id": "sw-bitcoin-halving",
+   "domain": "software",
+   "question": "What is the current Bitcoin block subsidy (block reward) paid to miners per block?",
+   "old": {
+    "answer": "6.25 BTC",
+    "aliases": [
+     "6.25"
+    ],
+    "title": "Bitcoin mining rewards after the third halving",
+    "date": "2020-05-11",
+    "body": "Following the third halving, the Bitcoin block subsidy is 6.25 BTC per block. Miners receive this subsidy plus transaction fees for each block they add to the chain."
+   },
+   "new": {
+    "answer": "3.125 BTC",
+    "aliases": [
+     "3.125"
+    ],
+    "title": "Fourth Bitcoin halving completed",
+    "date": "2024-04-20",
+    "body": "The fourth Bitcoin halving has occurred at block 840,000. The block subsidy has been reduced from 6.25 BTC to 3.125 BTC per block. This supersedes the previous reward schedule.",
+    "effective": null
+   },
+   "change_date": "2024-04-20",
+   "undated_old": false,
+   "t_past": null
+  },
+  {
+   "id": "sw-ga4",
+   "domain": "software",
+   "question": "Which Google Analytics property type should be used to collect website data?",
+   "old": {
+    "answer": "Universal Analytics",
+    "aliases": [
+     "universal analytics",
+     "ua"
+    ],
+    "title": "Setting up Google Analytics for your website",
+    "date": "2019-09-03",
+    "body": "To measure traffic on a website, create a Universal Analytics property in Google Analytics and add the tracking code to every page. Universal Analytics is the standard property type for websites."
+   },
+   "new": {
+    "answer": "Google Analytics 4 (GA4)",
+    "aliases": [
+     "ga4",
+     "analytics 4"
+    ],
+    "title": "Universal Analytics has stopped processing data",
+    "date": "2023-07-01",
+    "body": "Standard Universal Analytics properties have stopped processing new data. All website measurement must now use Google Analytics 4 properties. This supersedes earlier setup guidance based on Universal Analytics.",
+    "effective": "2023-07-01"
+   },
+   "change_date": "2023-07-01",
+   "undated_old": false,
+   "t_past": null
+  },
+  {
+   "id": "sw-windows10",
+   "domain": "software",
+   "question": "Is Windows 10 still under mainstream support with free security updates from Microsoft?",
+   "old": {
+    "answer": "yes, Windows 10 is supported",
+    "aliases": [
+     "yes",
+     "supported",
+     "receives security updates",
+     "receiving security updates"
+    ],
+    "title": "Windows 10 lifecycle",
+    "date": "2022-02-14",
+    "body": "Windows 10 is a supported operating system. Microsoft provides free monthly security and quality updates to all supported editions of Windows 10 through Windows Update."
+   },
+   "new": {
+    "answer": "no, Windows 10 has reached end of support",
+    "aliases": [
+     "end of support",
+     "no longer",
+     "ended",
+     "not supported",
+     "unsupported",
+     "reached the end"
+    ],
+    "title": "Windows 10 reaches end of support",
+    "date": "2025-10-14",
+    "body": "Windows 10 has reached the end of support. Microsoft no longer provides free security updates, feature updates or technical support for Windows 10. Users should upgrade to Windows 11 or enrol in the paid Extended Security Updates programme. This supersedes previous lifecycle guidance.",
+    "effective": null
+   },
+   "change_date": "2025-10-14",
+   "undated_old": false,
+   "t_past": null
+  },
+  {
+   "id": "sw-tweet-length",
+   "domain": "software",
+   "question": "What is the character limit of a standard post for regular users on Twitter/X?",
+   "old": {
+    "answer": "140 characters",
+    "aliases": [
+     "140"
+    ],
+    "title": "Composing a tweet",
+    "date": "2016-03-08",
+    "body": "Tweets are limited to 140 characters. If your message is longer, you must shorten it or split it across several tweets."
+   },
+   "new": {
+    "answer": "280 characters",
+    "aliases": [
+     "280"
+    ],
+    "title": "Twitter doubles the character limit to 280",
+    "date": "2017-11-07",
+    "body": "The character limit for tweets has been raised from 140 to 280 characters for all users in most languages. This supersedes the earlier 140-character limit.",
+    "effective": null
+   },
+   "change_date": "2017-11-07",
+   "undated_old": false,
+   "t_past": null
+  },
+  {
+   "id": "sw-iphone-port",
+   "domain": "software",
+   "question": "What charging connector do the latest iPhone models use?",
+   "old": {
+    "answer": "the Lightning connector",
+    "aliases": [
+     "lightning"
+    ],
+    "title": "iPhone charging and connectivity",
+    "date": "2022-09-16",
+    "body": "All current iPhone models charge and connect to accessories through Apple's proprietary Lightning port. A Lightning to USB cable is included with the phone."
+   },
+   "new": {
+    "answer": "USB-C",
+    "aliases": [
+     "usb-c",
+     "usb c",
+     "usb type-c",
+     "type-c"
+    ],
+    "title": "iPhone 15 adopts USB-C",
+    "date": "2023-09-12",
+    "body": "The newly announced iPhone 15 line replaces the Lightning port with a USB-C connector for charging and data transfer. All subsequent iPhone models use USB-C. This supersedes earlier documentation of the Lightning connector.",
+    "effective": null
+   },
+   "change_date": "2023-09-12",
+   "undated_old": false,
+   "t_past": null
+  },
+  {
+   "id": "sw-macos-shell",
+   "domain": "software",
+   "question": "What is the default login shell in macOS?",
+   "old": {
+    "answer": "bash",
+    "aliases": [
+     "bash"
+    ],
+    "title": "Using the Terminal in macOS",
+    "date": "2018-10-01",
+    "body": "When you open Terminal in macOS, a bash shell starts by default. bash is the default login shell for all user accounts on macOS."
+   },
+   "new": {
+    "answer": "zsh",
+    "aliases": [
+     "zsh",
+     "z shell"
+    ],
+    "title": "macOS Catalina makes zsh the default shell",
+    "date": "2019-10-07",
+    "body": "Starting with macOS Catalina, zsh is the default login shell for new user accounts. bash remains available but is no longer the default. This supersedes earlier documentation describing bash as the default.",
+    "effective": null
+   },
+   "change_date": "2019-10-07",
+   "undated_old": false,
+   "t_past": null
+  },
+  {
+   "id": "sw-flash",
+   "domain": "software",
+   "question": "Is Adobe Flash Player still supported by Adobe?",
+   "old": {
+    "answer": "yes, Flash Player is supported",
+    "aliases": [
+     "yes",
+     "supported",
+     "continues to"
+    ],
+    "title": "Adobe Flash Player support",
+    "date": "2016-05-02",
+    "body": "Adobe continues to support and update Flash Player with regular security releases for all major browsers and operating systems."
+   },
+   "new": {
+    "answer": "no, Flash Player has reached end of life",
+    "aliases": [
+     "end of life",
+     "eol",
+     "no longer",
+     "discontinued",
+     "not supported",
+     "ended"
+    ],
+    "title": "Adobe Flash Player end of life",
+    "date": "2020-12-31",
+    "body": "Adobe Flash Player has reached end of life. Adobe no longer supports Flash Player and blocks Flash content from running. Users should uninstall Flash Player. This supersedes earlier support statements.",
+    "effective": null
+   },
+   "change_date": "2020-12-31",
+   "undated_old": true,
+   "t_past": null
+  },
+  {
+   "id": "sw-java-lts",
+   "domain": "software",
+   "question": "What is the most recent long-term-support (LTS) release of Java?",
+   "old": {
+    "answer": "Java 21",
+    "aliases": [
+     "java 21",
+     "jdk 21",
+     "21"
+    ],
+    "title": "JDK 21 released as the new LTS version",
+    "date": "2023-09-19",
+    "body": "JDK 21 is now generally available and is the latest long-term-support release of Java, succeeding JDK 17. Oracle will provide extended support for JDK 21 for several years."
+   },
+   "new": {
+    "answer": "Java 25",
+    "aliases": [
+     "java 25",
+     "jdk 25",
+     "25"
+    ],
+    "title": "JDK 25 released as the new LTS version",
+    "date": "2025-09-16",
+    "body": "JDK 25 is now generally available and is designated the newest long-term-support release of Java, succeeding JDK 21 as the current LTS. This supersedes the earlier LTS designation.",
+    "effective": null
+   },
+   "change_date": "2025-09-16",
+   "undated_old": false,
+   "t_past": null
+  },
+  {
+   "id": "sw-gdpr",
+   "domain": "policy",
+   "question": "Which European Union data protection law is currently in force?",
+   "old": {
+    "answer": "the Data Protection Directive 95/46/EC",
+    "aliases": [
+     "directive",
+     "95/46"
+    ],
+    "title": "EU data protection framework",
+    "date": "2016-01-20",
+    "body": "Data protection in the European Union is governed by Directive 95/46/EC, which each member state implements through its own national legislation."
+   },
+   "new": {
+    "answer": "the General Data Protection Regulation (GDPR)",
+    "aliases": [
+     "gdpr",
+     "general data protection regulation",
+     "2016/679"
+    ],
+    "title": "GDPR becomes applicable across the EU",
+    "date": "2018-05-25",
+    "body": "The General Data Protection Regulation (EU) 2016/679 now applies directly in all EU member states and repeals Directive 95/46/EC. This supersedes the previous directive-based framework.",
+    "effective": "2018-05-25"
+   },
+   "change_date": "2018-05-25",
+   "undated_old": false,
+   "t_past": null
+  },
+  {
+   "id": "in-ipc",
+   "domain": "law",
+   "question": "Which statute is India's principal criminal code defining offences and their punishments?",
+   "old": {
+    "answer": "the Indian Penal Code, 1860",
+    "aliases": [
+     "indian penal code",
+     "ipc"
+    ],
+    "title": "Overview of criminal law in India",
+    "date": "2021-08-10",
+    "body": "The Indian Penal Code, 1860 is the principal criminal code of India. It defines offences and prescribes punishments, and it is applied together with the Code of Criminal Procedure and the Indian Evidence Act."
+   },
+   "new": {
+    "answer": "the Bharatiya Nyaya Sanhita, 2023",
+    "aliases": [
+     "bharatiya nyaya sanhita",
+     "bns"
+    ],
+    "title": "New criminal laws come into force",
+    "date": "2024-07-01",
+    "body": "The Bharatiya Nyaya Sanhita, 2023 has come into force and replaces the Indian Penal Code, 1860 as India's principal criminal code. The Bharatiya Nagarik Suraksha Sanhita and the Bharatiya Sakshya Adhiniyam replace the Code of Criminal Procedure and the Indian Evidence Act respectively. This supersedes the earlier statutes.",
+    "effective": "2024-07-01"
+   },
+   "change_date": "2024-07-01",
+   "undated_old": false,
+   "t_past": null
+  },
+  {
+   "id": "in-evidence",
+   "domain": "law",
+   "question": "Which statute governs the law of evidence in Indian courts?",
+   "old": {
+    "answer": "the Indian Evidence Act, 1872",
+    "aliases": [
+     "indian evidence act",
+     "evidence act, 1872",
+     "evidence act 1872"
+    ],
+    "title": "Law of evidence in India: a primer",
+    "date": "2020-02-03",
+    "body": "The admissibility and relevance of evidence in Indian courts is governed by the Indian Evidence Act, 1872, which applies to all judicial proceedings in India."
+   },
+   "new": {
+    "answer": "the Bharatiya Sakshya Adhiniyam, 2023",
+    "aliases": [
+     "bharatiya sakshya",
+     "bsa"
+    ],
+    "title": "Bharatiya Sakshya Adhiniyam replaces the Indian Evidence Act",
+    "date": "2024-07-01",
+    "body": "The Bharatiya Sakshya Adhiniyam, 2023 is now in force and replaces the Indian Evidence Act, 1872 as the law governing evidence in Indian courts. This supersedes the earlier Act.",
+    "effective": "2024-07-01"
+   },
+   "change_date": "2024-07-01",
+   "undated_old": true,
+   "t_past": null
+  },
+  {
+   "id": "in-377",
+   "domain": "law",
+   "question": "Is consensual sexual activity between adults of the same sex a criminal offence in India?",
+   "old": {
+    "answer": "yes, it is an offence under Section 377 of the Indian Penal Code",
+    "aliases": [
+     "yes",
+     "offence",
+     "criminal",
+     "punishable",
+     "illegal"
+    ],
+    "title": "Section 377 of the Indian Penal Code",
+    "date": "2016-11-15",
+    "body": "Section 377 of the Indian Penal Code criminalises carnal intercourse against the order of nature and, as upheld by the Supreme Court, applies to consensual sexual activity between adults of the same sex, which is therefore a punishable offence."
+   },
+   "new": {
+    "answer": "no, it has been decriminalised",
+    "aliases": [
+     "decriminalised",
+     "decriminalized",
+     "not a crime",
+     "not an offence",
+     "no longer",
+     "legal",
+     "struck down"
+    ],
+    "title": "Supreme Court judgment in Navtej Singh Johar v. Union of India",
+    "date": "2018-09-06",
+    "body": "A Constitution Bench of the Supreme Court has held that Section 377, in so far as it criminalises consensual sexual conduct between adults of the same sex, is unconstitutional. Such conduct is no longer a criminal offence. This judgment supersedes the earlier position.",
+    "effective": null
+   },
+   "change_date": "2018-09-06",
+   "undated_old": false,
+   "t_past": null
+  },
+  {
+   "id": "in-triple-talaq",
+   "domain": "law",
+   "question": "Is pronouncing instant triple talaq (talaq-e-biddat) a criminal offence in India?",
+   "old": {
+    "answer": "no, it is not a criminal offence",
+    "aliases": [
+     "no",
+     "not a criminal",
+     "not an offence",
+     "not criminal",
+     "civil"
+    ],
+    "title": "Legal status of talaq-e-biddat",
+    "date": "2017-10-10",
+    "body": "Although the Supreme Court has declared instant triple talaq invalid as a means of divorce, pronouncing it is not a criminal offence under any statute, and no penal consequences attach to the husband."
+   },
+   "new": {
+    "answer": "yes, it is a criminal offence punishable with imprisonment",
+    "aliases": [
+     "yes",
+     "criminal offence",
+     "punishable",
+     "imprisonment",
+     "offence",
+     "illegal"
+    ],
+    "title": "The Muslim Women (Protection of Rights on Marriage) Act, 2019",
+    "date": "2019-07-31",
+    "body": "The Act makes the pronouncement of instant triple talaq by a Muslim husband void and illegal, and a cognisable offence punishable with imprisonment of up to three years and a fine. This supersedes the earlier position that no penal consequences attached.",
+    "effective": "2019-07-31"
+   },
+   "change_date": "2019-07-31",
+   "undated_old": false,
+   "t_past": null
+  },
+  {
+   "id": "in-article370",
+   "domain": "law",
+   "question": "Does Jammu and Kashmir have special autonomous status under Article 370 of the Indian Constitution?",
+   "old": {
+    "answer": "yes, it has special status under Article 370",
+    "aliases": [
+     "yes",
+     "special status",
+     "autonomous",
+     "has special"
+    ],
+    "title": "Article 370 and the status of Jammu and Kashmir",
+    "date": "2018-04-09",
+    "body": "Under Article 370 of the Constitution, the State of Jammu and Kashmir enjoys special autonomous status. Parliament's power to make laws for the state is limited, and the state has its own constitution."
+   },
+   "new": {
+    "answer": "no, the special status has been revoked",
+    "aliases": [
+     "revoked",
+     "abrogated",
+     "no longer",
+     "removed",
+     "withdrawn",
+     "ceased"
+    ],
+    "title": "Presidential order revokes the special status of Jammu and Kashmir",
+    "date": "2019-08-05",
+    "body": "By Presidential order, the special status conferred on Jammu and Kashmir under Article 370 has been revoked, and all provisions of the Constitution of India now apply to the territory. The State is being reorganised into two Union Territories. This supersedes the earlier constitutional position.",
+    "effective": null
+   },
+   "change_date": "2019-08-05",
+   "undated_old": false,
+   "t_past": null
+  },
+  {
+   "id": "in-niti",
+   "domain": "policy",
+   "question": "Which institution serves as the Government of India's apex policy planning body?",
+   "old": {
+    "answer": "the Planning Commission",
+    "aliases": [
+     "planning commission"
+    ],
+    "title": "The Planning Commission of India",
+    "date": "2013-07-22",
+    "body": "The Planning Commission is the Government of India's apex body for formulating Five-Year Plans and allocating plan funds to states and central ministries. It is chaired by the Prime Minister."
+   },
+   "new": {
+    "answer": "NITI Aayog",
+    "aliases": [
+     "niti aayog",
+     "niti"
+    ],
+    "title": "NITI Aayog replaces the Planning Commission",
+    "date": "2015-01-01",
+    "body": "The Government of India has established NITI Aayog (National Institution for Transforming India) as its policy think tank, replacing the Planning Commission. NITI Aayog is now the apex policy body. This supersedes the earlier arrangement.",
+    "effective": null
+   },
+   "change_date": "2015-01-01",
+   "undated_old": false,
+   "t_past": null
+  },
+  {
+   "id": "in-tax-regime",
+   "domain": "policy",
+   "question": "Which income tax regime is the default for individual taxpayers in India?",
+   "old": {
+    "answer": "the old tax regime with deductions and exemptions",
+    "aliases": [
+     "old regime",
+     "old tax regime",
+     "existing regime",
+     "regular regime",
+     "with deductions"
+    ],
+    "title": "Choosing between the old and new income tax regimes",
+    "date": "2021-06-15",
+    "body": "Individual taxpayers in India are assessed under the old tax regime by default, which allows deductions and exemptions. Taxpayers may opt into the new concessional tax regime under section 115BAC if they wish."
+   },
+   "new": {
+    "answer": "the new tax regime with concessional rates",
+    "aliases": [
+     "new regime",
+     "new tax regime",
+     "concessional",
+     "115bac"
+    ],
+    "title": "New tax regime becomes the default",
+    "date": "2023-04-01",
+    "body": "The new concessional income tax regime under section 115BAC is now the default regime for individual taxpayers. Those who wish to claim deductions under the old regime must opt out of the new regime. This supersedes the earlier default.",
+    "effective": "2023-04-01"
+   },
+   "change_date": "2023-04-01",
+   "undated_old": false,
+   "t_past": null
+  },
+  {
+   "id": "in-president",
+   "domain": "politics",
+   "question": "Who is the President of India?",
+   "old": {
+    "answer": "Ram Nath Kovind",
+    "aliases": [
+     "kovind"
+    ],
+    "title": "The President of India",
+    "date": "2021-01-26",
+    "body": "Ram Nath Kovind is the President of India, the constitutional head of state. He assumed office as the fourteenth President."
+   },
+   "new": {
+    "answer": "Droupadi Murmu",
+    "aliases": [
+     "murmu"
+    ],
+    "title": "Droupadi Murmu sworn in as President of India",
+    "date": "2022-07-25",
+    "body": "Droupadi Murmu has been sworn in as the fifteenth President of India, succeeding Ram Nath Kovind. This supersedes earlier records of the office holder.",
+    "effective": null
+   },
+   "change_date": "2022-07-25",
+   "undated_old": false,
+   "t_past": null
+  },
+  {
+   "id": "in-gst-gaming",
+   "domain": "policy",
+   "question": "What GST rate applies to online money gaming in India?",
+   "old": {
+    "answer": "18 percent on the platform fee",
+    "aliases": [
+     "18"
+    ],
+    "title": "GST treatment of online gaming",
+    "date": "2022-03-14",
+    "body": "Online gaming platforms in India pay Goods and Services Tax at 18 percent on the platform fee or gross gaming revenue they retain, not on the total amount staked by players."
+   },
+   "new": {
+    "answer": "28 percent on the full face value of bets",
+    "aliases": [
+     "28"
+    ],
+    "title": "28 percent GST on online money gaming comes into effect",
+    "date": "2023-10-01",
+    "body": "Online money gaming, casinos and horse racing are now taxed at 28 percent GST on the full face value of bets or deposits, following amendments to the GST laws. This supersedes the earlier 18 percent treatment.",
+    "effective": "2023-10-01"
+   },
+   "change_date": "2023-10-01",
+   "undated_old": false,
+   "t_past": null
+  },
+  {
+   "id": "in-gst-insurance",
+   "domain": "policy",
+   "question": "What GST rate applies to individual health insurance premiums in India?",
+   "old": {
+    "answer": "18 percent",
+    "aliases": [
+     "18"
+    ],
+    "title": "GST on insurance premiums",
+    "date": "2024-02-05",
+    "body": "Premiums paid for individual health insurance and life insurance policies in India attract Goods and Services Tax at the standard rate of 18 percent."
+   },
+   "new": {
+    "answer": "nil, individual health insurance is exempt from GST",
+    "aliases": [
+     "nil",
+     "exempt",
+     "zero",
+     "0 percent",
+     "0%",
+     "no gst"
+    ],
+    "title": "GST exemption on individual life and health insurance",
+    "date": "2025-09-22",
+    "body": "Individual life insurance and individual health insurance policies, including family floater and senior citizen policies, are now exempt from GST. The earlier 18 percent levy no longer applies. This supersedes the earlier treatment.",
+    "effective": "2025-09-22"
+   },
+   "change_date": "2025-09-22",
+   "undated_old": false,
+   "t_past": null
+  },
+  {
+   "id": "in-gst-slabs",
+   "domain": "policy",
+   "question": "What are the main GST rate slabs in India?",
+   "old": {
+    "answer": "four slabs of 5, 12, 18 and 28 percent",
+    "aliases": [
+     "12",
+     "four slabs",
+     "four-tier",
+     "4 slabs"
+    ],
+    "title": "Structure of GST rates in India",
+    "date": "2023-01-09",
+    "body": "Goods and services in India are taxed under four main GST slabs of 5 percent, 12 percent, 18 percent and 28 percent, with a compensation cess on certain luxury and demerit goods."
+   },
+   "new": {
+    "answer": "two main slabs of 5 and 18 percent, with a 40 percent rate for luxury and sin goods",
+    "aliases": [
+     "two slabs",
+     "two-tier",
+     "two main",
+     "40",
+     "5 and 18",
+     "5% and 18%"
+    ],
+    "title": "Rationalised two-rate GST structure takes effect",
+    "date": "2025-09-22",
+    "body": "The GST rate structure has been rationalised into two main slabs of 5 percent and 18 percent. The 12 percent and 28 percent slabs have been abolished, and a special 40 percent rate applies to luxury and sin goods. This supersedes the earlier four-slab structure.",
+    "effective": "2025-09-22"
+   },
+   "change_date": "2025-09-22",
+   "undated_old": false,
+   "t_past": null
+  },
+  {
+   "id": "in-uts",
+   "domain": "policy",
+   "question": "How many Union Territories does India have?",
+   "old": {
+    "answer": "7",
+    "aliases": [
+     "seven",
+     "7"
+    ],
+    "title": "States and Union Territories of India",
+    "date": "2018-03-12",
+    "body": "India is a union of 29 states and 7 union territories. The union territories are administered by the central government through administrators or lieutenant governors."
+   },
+   "new": {
+    "answer": "8",
+    "aliases": [
+     "eight",
+     "8"
+    ],
+    "title": "Merger of Dadra and Nagar Haveli with Daman and Diu",
+    "date": "2020-01-26",
+    "body": "Following the reorganisation of Jammu and Kashmir into two union territories and the merger of Dadra and Nagar Haveli with Daman and Diu into a single union territory, India now has 28 states and 8 union territories. This supersedes earlier counts.",
+    "effective": null
+   },
+   "change_date": "2020-01-26",
+   "undated_old": false,
+   "t_past": "2019-01-15"
+  },
+  {
+   "id": "in-5g",
+   "domain": "policy",
+   "question": "Are commercial 5G mobile services available in India?",
+   "old": {
+    "answer": "no, 5G has not been launched",
+    "aliases": [
+     "no",
+     "not yet",
+     "not launched",
+     "not available",
+     "has not"
+    ],
+    "title": "Status of 5G in India",
+    "date": "2021-11-02",
+    "body": "Commercial 5G services are not yet available in India. Spectrum auctions have not been completed and telecom operators are conducting trials only."
+   },
+   "new": {
+    "answer": "yes, commercial 5G services have been launched",
+    "aliases": [
+     "yes",
+     "launched",
+     "available",
+     "rolled out"
+    ],
+    "title": "Commercial 5G services launched in India",
+    "date": "2022-10-01",
+    "body": "The Prime Minister has formally launched commercial 5G services in India. Telecom operators are rolling out 5G networks in major cities. This supersedes earlier statements that 5G was unavailable.",
+    "effective": null
+   },
+   "change_date": "2022-10-01",
+   "undated_old": true,
+   "t_past": null
+  },
+  {
+   "id": "in-isro",
+   "domain": "politics",
+   "question": "Who is the Chairman of ISRO?",
+   "old": {
+    "answer": "S. Somanath",
+    "aliases": [
+     "somanath"
+    ],
+    "title": "ISRO leadership",
+    "date": "2023-08-24",
+    "body": "S. Somanath is the Chairman of the Indian Space Research Organisation and Secretary of the Department of Space."
+   },
+   "new": {
+    "answer": "V. Narayanan",
+    "aliases": [
+     "narayanan"
+    ],
+    "title": "V. Narayanan takes over as ISRO Chairman",
+    "date": "2025-01-14",
+    "body": "V. Narayanan has assumed charge as Chairman of ISRO and Secretary of the Department of Space, succeeding S. Somanath. This supersedes earlier leadership records.",
+    "effective": null
+   },
+   "change_date": "2025-01-14",
+   "undated_old": false,
+   "t_past": null
+  },
+  {
+   "id": "in-rbi",
+   "domain": "politics",
+   "question": "Who is the Governor of the Reserve Bank of India?",
+   "old": {
+    "answer": "Shaktikanta Das",
+    "aliases": [
+     "shaktikanta",
+     "das"
+    ],
+    "title": "Governor of the Reserve Bank of India",
+    "date": "2023-05-02",
+    "body": "Shaktikanta Das is the Governor of the Reserve Bank of India, the country's central bank."
+   },
+   "new": {
+    "answer": "Sanjay Malhotra",
+    "aliases": [
+     "malhotra"
+    ],
+    "title": "Sanjay Malhotra assumes office as RBI Governor",
+    "date": "2024-12-11",
+    "body": "Sanjay Malhotra has taken charge as the twenty-sixth Governor of the Reserve Bank of India, succeeding Shaktikanta Das. This supersedes earlier records.",
+    "effective": null
+   },
+   "change_date": "2024-12-11",
+   "undated_old": false,
+   "t_past": null
+  },
+  {
+   "id": "in-delhi-cm",
+   "domain": "politics",
+   "question": "Who is the Chief Minister of Delhi?",
+   "old": {
+    "answer": "Atishi",
+    "aliases": [
+     "atishi"
+    ],
+    "title": "Atishi sworn in as Chief Minister of Delhi",
+    "date": "2024-09-21",
+    "body": "Atishi has been sworn in as the Chief Minister of Delhi, succeeding Arvind Kejriwal."
+   },
+   "new": {
+    "answer": "Rekha Gupta",
+    "aliases": [
+     "rekha gupta",
+     "gupta"
+    ],
+    "title": "Rekha Gupta sworn in as Chief Minister of Delhi",
+    "date": "2025-02-20",
+    "body": "Rekha Gupta has been sworn in as the Chief Minister of Delhi following the assembly election. She succeeds Atishi. This supersedes earlier records.",
+    "effective": null
+   },
+   "change_date": "2025-02-20",
+   "undated_old": false,
+   "t_past": null
+  },
+  {
+   "id": "in-vp",
+   "domain": "politics",
+   "question": "Who is the Vice President of India?",
+   "old": {
+    "answer": "Jagdeep Dhankhar",
+    "aliases": [
+     "dhankhar"
+    ],
+    "title": "The Vice President of India",
+    "date": "2024-03-05",
+    "body": "Jagdeep Dhankhar is the Vice President of India and ex officio Chairman of the Rajya Sabha."
+   },
+   "new": {
+    "answer": "C. P. Radhakrishnan",
+    "aliases": [
+     "radhakrishnan"
+    ],
+    "title": "C. P. Radhakrishnan sworn in as Vice President",
+    "date": "2025-09-12",
+    "body": "C. P. Radhakrishnan has been sworn in as the Vice President of India following the resignation of Jagdeep Dhankhar. This supersedes earlier records.",
+    "effective": null
+   },
+   "change_date": "2025-09-12",
+   "undated_old": false,
+   "t_past": null
+  },
+  {
+   "id": "in-prayagraj",
+   "domain": "policy",
+   "question": "What is the official name of the Uttar Pradesh city formerly known as Allahabad?",
+   "old": {
+    "answer": "Allahabad",
+    "aliases": [
+     "allahabad"
+    ],
+    "title": "District profile: Allahabad",
+    "date": "2017-05-30",
+    "body": "Allahabad is a major city and district headquarters in Uttar Pradesh, located at the confluence of the Ganga and Yamuna rivers. The city's official name is Allahabad."
+   },
+   "new": {
+    "answer": "Prayagraj",
+    "aliases": [
+     "prayagraj"
+    ],
+    "title": "Allahabad officially renamed Prayagraj",
+    "date": "2018-10-16",
+    "body": "The Uttar Pradesh government has officially renamed the city and district of Allahabad as Prayagraj. All official records now use the name Prayagraj. This supersedes the earlier name.",
+    "effective": null
+   },
+   "change_date": "2018-10-16",
+   "undated_old": false,
+   "t_past": null
+  },
+  {
+   "id": "in-sambhajinagar",
+   "domain": "policy",
+   "question": "What is the official name of the Maharashtra city formerly known as Aurangabad?",
+   "old": {
+    "answer": "Aurangabad",
+    "aliases": [
+     "aurangabad"
+    ],
+    "title": "District profile: Aurangabad",
+    "date": "2021-04-12",
+    "body": "Aurangabad is a city and district headquarters in Maharashtra, known for the nearby Ajanta and Ellora caves. Its official name is Aurangabad."
+   },
+   "new": {
+    "answer": "Chhatrapati Sambhajinagar",
+    "aliases": [
+     "sambhajinagar",
+     "sambhaji nagar"
+    ],
+    "title": "Aurangabad renamed Chhatrapati Sambhajinagar",
+    "date": "2023-02-24",
+    "body": "The Union Home Ministry has approved the renaming of Aurangabad city and district in Maharashtra as Chhatrapati Sambhajinagar. Official records now use the new name. This supersedes the earlier name.",
+    "effective": null
+   },
+   "change_date": "2023-02-24",
+   "undated_old": false,
+   "t_past": null
+  },
+  {
+   "id": "in-air-india",
+   "domain": "business",
+   "question": "Who owns Air India?",
+   "old": {
+    "answer": "the Government of India",
+    "aliases": [
+     "government of india",
+     "government",
+     "state-owned",
+     "state owned",
+     "public sector"
+    ],
+    "title": "Air India corporate profile",
+    "date": "2020-07-07",
+    "body": "Air India is the flag carrier airline of India, wholly owned by the Government of India through the Ministry of Civil Aviation."
+   },
+   "new": {
+    "answer": "the Tata Group",
+    "aliases": [
+     "tata"
+    ],
+    "title": "Air India handed over to the Tata Group",
+    "date": "2022-01-27",
+    "body": "The Government of India has completed the strategic disinvestment of Air India, transferring full ownership to Talace Private Limited, a subsidiary of Tata Sons. Air India is now owned by the Tata Group. This supersedes earlier ownership records.",
+    "effective": null
+   },
+   "change_date": "2022-01-27",
+   "undated_old": false,
+   "t_past": null
+  },
+  {
+   "id": "in-ipl-teams",
+   "domain": "sports",
+   "question": "How many teams compete in the Indian Premier League (IPL)?",
+   "old": {
+    "answer": "8",
+    "aliases": [
+     "eight",
+     "8"
+    ],
+    "title": "About the Indian Premier League",
+    "date": "2020-09-19",
+    "body": "The Indian Premier League is a professional Twenty20 cricket league contested by eight franchise teams representing Indian cities."
+   },
+   "new": {
+    "answer": "10",
+    "aliases": [
+     "ten",
+     "10"
+    ],
+    "title": "IPL expands to ten teams",
+    "date": "2022-03-26",
+    "body": "With the addition of the Gujarat Titans and the Lucknow Super Giants, the Indian Premier League is now contested by ten franchise teams. This supersedes earlier descriptions of an eight-team league.",
+    "effective": null
+   },
+   "change_date": "2022-03-26",
+   "undated_old": false,
+   "t_past": null
+  },
+  {
+   "id": "wd-uk-monarch",
+   "domain": "politics",
+   "question": "Who is the reigning monarch of the United Kingdom?",
+   "old": {
+    "answer": "Queen Elizabeth II",
+    "aliases": [
+     "elizabeth"
+    ],
+    "title": "The British monarchy",
+    "date": "2021-06-02",
+    "body": "Queen Elizabeth II is the reigning monarch of the United Kingdom and the other Commonwealth realms, having acceded to the throne in 1952."
+   },
+   "new": {
+    "answer": "King Charles III",
+    "aliases": [
+     "charles"
+    ],
+    "title": "Accession of King Charles III",
+    "date": "2022-09-08",
+    "body": "Following the death of Queen Elizabeth II, her son has acceded to the throne as King Charles III and is now the reigning monarch of the United Kingdom. This supersedes earlier records.",
+    "effective": null
+   },
+   "change_date": "2022-09-08",
+   "undated_old": false,
+   "t_past": null
+  },
+  {
+   "id": "wd-nato",
+   "domain": "politics",
+   "question": "Which country is the most recent to join NATO?",
+   "old": {
+    "answer": "Finland",
+    "aliases": [
+     "finland"
+    ],
+    "title": "Finland joins NATO",
+    "date": "2023-04-04",
+    "body": "Finland has formally joined the North Atlantic Treaty Organization as its thirty-first member, becoming the newest member of the alliance."
+   },
+   "new": {
+    "answer": "Sweden",
+    "aliases": [
+     "sweden"
+    ],
+    "title": "Sweden joins NATO as the thirty-second member",
+    "date": "2024-03-07",
+    "body": "Sweden has formally become the thirty-second member of NATO and is now the alliance's most recent member, following Finland. This supersedes earlier records.",
+    "effective": null
+   },
+   "change_date": "2024-03-07",
+   "undated_old": false,
+   "t_past": null
+  },
+  {
+   "id": "wd-turkiye",
+   "domain": "politics",
+   "question": "What is the official name of the Republic of Turkey as registered at the United Nations?",
+   "old": {
+    "answer": "Turkey",
+    "aliases": [
+     "turkey"
+    ],
+    "title": "Member states of the United Nations: Turkey",
+    "date": "2020-10-05",
+    "body": "The Republic of Turkey is listed at the United Nations under the name Turkey, a founding member of the organisation."
+   },
+   "new": {
+    "answer": "Türkiye",
+    "aliases": [
+     "türkiye",
+     "turkiye"
+    ],
+    "title": "United Nations registers the name Türkiye",
+    "date": "2022-06-01",
+    "body": "The United Nations has accepted the request of the Republic of Türkiye to change its registered name from Turkey to Türkiye in all official documents. This supersedes the earlier name.",
+    "effective": null
+   },
+   "change_date": "2022-06-01",
+   "undated_old": false,
+   "t_past": null
+  },
+  {
+   "id": "wd-north-macedonia",
+   "domain": "politics",
+   "question": "What is the official name of the country formerly known as the Former Yugoslav Republic of Macedonia?",
+   "old": {
+    "answer": "the Republic of Macedonia (Former Yugoslav Republic of Macedonia)",
+    "aliases": [
+     "republic of macedonia",
+     "former yugoslav",
+     "fyrom",
+     "macedonia"
+    ],
+    "title": "Country profile: Macedonia",
+    "date": "2017-09-11",
+    "body": "The country is known constitutionally as the Republic of Macedonia and is referred to in the United Nations as the Former Yugoslav Republic of Macedonia because of a naming dispute with Greece."
+   },
+   "new": {
+    "answer": "the Republic of North Macedonia",
+    "aliases": [
+     "north macedonia"
+    ],
+    "title": "Prespa agreement enters into force: Republic of North Macedonia",
+    "date": "2019-02-12",
+    "body": "Under the Prespa agreement with Greece, the country has officially changed its name to the Republic of North Macedonia. This supersedes the earlier names.",
+    "effective": null
+   },
+   "change_date": "2019-02-12",
+   "undated_old": false,
+   "t_past": null
+  },
+  {
+   "id": "wd-eswatini",
+   "domain": "politics",
+   "question": "What is the official name of the southern African kingdom formerly called Swaziland?",
+   "old": {
+    "answer": "the Kingdom of Swaziland",
+    "aliases": [
+     "swaziland"
+    ],
+    "title": "Country profile: Swaziland",
+    "date": "2016-08-01",
+    "body": "The Kingdom of Swaziland is a landlocked monarchy in southern Africa, bordered by South Africa and Mozambique."
+   },
+   "new": {
+    "answer": "the Kingdom of Eswatini",
+    "aliases": [
+     "eswatini"
+    ],
+    "title": "Swaziland officially renamed the Kingdom of Eswatini",
+    "date": "2018-04-19",
+    "body": "The King has announced that the country's official name is changed from the Kingdom of Swaziland to the Kingdom of Eswatini. This supersedes the earlier name.",
+    "effective": null
+   },
+   "change_date": "2018-04-19",
+   "undated_old": false,
+   "t_past": null
+  },
+  {
+   "id": "wd-brexit",
+   "domain": "politics",
+   "question": "Is the United Kingdom a member state of the European Union?",
+   "old": {
+    "answer": "yes",
+    "aliases": [
+     "yes",
+     "is a member",
+     "member state"
+    ],
+    "title": "Member states of the European Union",
+    "date": "2018-06-11",
+    "body": "The United Kingdom is one of the 28 member states of the European Union, having joined the European Communities in 1973."
+   },
+   "new": {
+    "answer": "no, the United Kingdom has left the European Union",
+    "aliases": [
+     "no",
+     "left",
+     "no longer",
+     "withdrawn",
+     "not a member",
+     "former member"
+    ],
+    "title": "United Kingdom withdraws from the European Union",
+    "date": "2020-01-31",
+    "body": "The United Kingdom has formally withdrawn from the European Union and is no longer a member state. The Union now has 27 members. This supersedes earlier membership lists.",
+    "effective": null
+   },
+   "change_date": "2020-01-31",
+   "undated_old": false,
+   "t_past": null
+  },
+  {
+   "id": "wd-croatia-euro",
+   "domain": "politics",
+   "question": "What is the official currency of Croatia?",
+   "old": {
+    "answer": "the Croatian kuna",
+    "aliases": [
+     "kuna"
+    ],
+    "title": "Currency of Croatia",
+    "date": "2021-05-17",
+    "body": "The official currency of Croatia is the Croatian kuna, which is divided into 100 lipa."
+   },
+   "new": {
+    "answer": "the euro",
+    "aliases": [
+     "euro"
+    ],
+    "title": "Croatia adopts the euro",
+    "date": "2023-01-01",
+    "body": "Croatia has adopted the euro as its official currency, replacing the kuna, and has become the twentieth member of the euro area. This supersedes earlier currency information.",
+    "effective": null
+   },
+   "change_date": "2023-01-01",
+   "undated_old": true,
+   "t_past": null
+  },
+  {
+   "id": "wd-population",
+   "domain": "politics",
+   "question": "Which country has the largest population in the world?",
+   "old": {
+    "answer": "China",
+    "aliases": [
+     "china"
+    ],
+    "title": "World population rankings",
+    "date": "2021-07-11",
+    "body": "China is the most populous country in the world with over 1.4 billion people, followed by India."
+   },
+   "new": {
+    "answer": "India",
+    "aliases": [
+     "india"
+    ],
+    "title": "India overtakes China as the world's most populous country",
+    "date": "2023-04-24",
+    "body": "According to United Nations estimates, India has surpassed China to become the most populous country in the world. This supersedes earlier rankings.",
+    "effective": null
+   },
+   "change_date": "2023-04-24",
+   "undated_old": false,
+   "t_past": null
+  },
+  {
+   "id": "wd-astana",
+   "domain": "politics",
+   "question": "What is the name of the capital city of Kazakhstan?",
+   "old": {
+    "answer": "Nur-Sultan",
+    "aliases": [
+     "nur-sultan",
+     "nursultan",
+     "nur sultan"
+    ],
+    "title": "Capital of Kazakhstan renamed Nur-Sultan",
+    "date": "2019-03-23",
+    "body": "The capital of Kazakhstan, previously called Astana, has been renamed Nur-Sultan in honour of the country's first president. The official name of the capital is Nur-Sultan."
+   },
+   "new": {
+    "answer": "Astana",
+    "aliases": [
+     "astana"
+    ],
+    "title": "Kazakhstan restores the name Astana for its capital",
+    "date": "2022-09-17",
+    "body": "The capital of Kazakhstan has been renamed back to Astana. The name Nur-Sultan is no longer in official use. This supersedes the earlier renaming.",
+    "effective": null
+   },
+   "change_date": "2022-09-17",
+   "undated_old": false,
+   "t_past": null
+  },
+  {
+   "id": "wd-us-president",
+   "domain": "politics",
+   "question": "Who is the President of the United States?",
+   "old": {
+    "answer": "Joe Biden",
+    "aliases": [
+     "biden"
+    ],
+    "title": "President of the United States",
+    "date": "2023-03-01",
+    "body": "Joe Biden is the forty-sixth President of the United States, having taken office in January 2021."
+   },
+   "new": {
+    "answer": "Donald Trump",
+    "aliases": [
+     "trump"
+    ],
+    "title": "Donald Trump inaugurated as the forty-seventh President",
+    "date": "2025-01-20",
+    "body": "Donald Trump has been inaugurated as the forty-seventh President of the United States, succeeding Joe Biden. This supersedes earlier records.",
+    "effective": null
+   },
+   "change_date": "2025-01-20",
+   "undated_old": false,
+   "t_past": null
+  },
+  {
+   "id": "wd-canada-pm",
+   "domain": "politics",
+   "question": "Who is the Prime Minister of Canada?",
+   "old": {
+    "answer": "Justin Trudeau",
+    "aliases": [
+     "trudeau"
+    ],
+    "title": "Prime Minister of Canada",
+    "date": "2024-05-06",
+    "body": "Justin Trudeau is the Prime Minister of Canada and leader of the Liberal Party."
+   },
+   "new": {
+    "answer": "Mark Carney",
+    "aliases": [
+     "carney"
+    ],
+    "title": "Mark Carney sworn in as Prime Minister of Canada",
+    "date": "2025-03-14",
+    "body": "Mark Carney has been sworn in as the twenty-fourth Prime Minister of Canada, succeeding Justin Trudeau. This supersedes earlier records.",
+    "effective": null
+   },
+   "change_date": "2025-03-14",
+   "undated_old": false,
+   "t_past": null
+  },
+  {
+   "id": "wd-germany",
+   "domain": "politics",
+   "question": "Who is the Chancellor of Germany?",
+   "old": {
+    "answer": "Olaf Scholz",
+    "aliases": [
+     "scholz"
+    ],
+    "title": "Chancellor of Germany",
+    "date": "2024-02-19",
+    "body": "Olaf Scholz is the Federal Chancellor of Germany, leading a coalition government."
+   },
+   "new": {
+    "answer": "Friedrich Merz",
+    "aliases": [
+     "merz"
+    ],
+    "title": "Friedrich Merz elected Chancellor",
+    "date": "2025-05-06",
+    "body": "The Bundestag has elected Friedrich Merz as Federal Chancellor of Germany, succeeding Olaf Scholz. This supersedes earlier records.",
+    "effective": null
+   },
+   "change_date": "2025-05-06",
+   "undated_old": false,
+   "t_past": null
+  },
+  {
+   "id": "wd-uk-pm",
+   "domain": "politics",
+   "question": "Who is the Prime Minister of the United Kingdom?",
+   "old": {
+    "answer": "Rishi Sunak",
+    "aliases": [
+     "sunak"
+    ],
+    "title": "Prime Minister of the United Kingdom",
+    "date": "2023-11-13",
+    "body": "Rishi Sunak is the Prime Minister of the United Kingdom and leader of the Conservative Party."
+   },
+   "new": {
+    "answer": "Keir Starmer",
+    "aliases": [
+     "starmer"
+    ],
+    "title": "Keir Starmer appointed Prime Minister",
+    "date": "2024-07-05",
+    "body": "Following the general election, Keir Starmer has been appointed Prime Minister of the United Kingdom, succeeding Rishi Sunak. This supersedes earlier records.",
+    "effective": null
+   },
+   "change_date": "2024-07-05",
+   "undated_old": false,
+   "t_past": null
+  },
+  {
+   "id": "wd-pope",
+   "domain": "politics",
+   "question": "Who is the Pope, head of the Catholic Church?",
+   "old": {
+    "answer": "Pope Francis",
+    "aliases": [
+     "francis"
+    ],
+    "title": "The Pope",
+    "date": "2024-08-15",
+    "body": "Pope Francis is the head of the Catholic Church and sovereign of the Vatican City State, having been elected in 2013."
+   },
+   "new": {
+    "answer": "Pope Leo XIV",
+    "aliases": [
+     "leo"
+    ],
+    "title": "Election of Pope Leo XIV",
+    "date": "2025-05-08",
+    "body": "The conclave has elected Cardinal Robert Prevost as Pope, who has taken the name Leo XIV, succeeding Pope Francis. This supersedes earlier records.",
+    "effective": null
+   },
+   "change_date": "2025-05-08",
+   "undated_old": false,
+   "t_past": null
+  },
+  {
+   "id": "wd-syria",
+   "domain": "politics",
+   "question": "Who is the President of Syria?",
+   "old": {
+    "answer": "Bashar al-Assad",
+    "aliases": [
+     "assad"
+    ],
+    "title": "Government of Syria",
+    "date": "2024-06-03",
+    "body": "Bashar al-Assad is the President of Syria, an office he has held since 2000."
+   },
+   "new": {
+    "answer": "Ahmed al-Sharaa",
+    "aliases": [
+     "sharaa",
+     "al-shara",
+     "jolani",
+     "julani"
+    ],
+    "title": "Ahmed al-Sharaa named President of Syria for the transitional period",
+    "date": "2025-01-29",
+    "body": "Following the fall of the Assad government, Ahmed al-Sharaa has been declared President of Syria for the transitional period. This supersedes earlier records.",
+    "effective": null
+   },
+   "change_date": "2025-01-29",
+   "undated_old": false,
+   "t_past": null
+  },
+  {
+   "id": "md-pheic",
+   "domain": "medicine",
+   "question": "Is COVID-19 currently a Public Health Emergency of International Concern (PHEIC) according to the WHO?",
+   "old": {
+    "answer": "yes",
+    "aliases": [
+     "yes",
+     "remains a",
+     "is a public health emergency",
+     "continues to"
+    ],
+    "title": "WHO statement on the COVID-19 emergency",
+    "date": "2022-01-19",
+    "body": "The Director-General of the WHO has determined that the COVID-19 pandemic continues to constitute a Public Health Emergency of International Concern."
+   },
+   "new": {
+    "answer": "no, the PHEIC has been ended",
+    "aliases": [
+     "no",
+     "no longer",
+     "ended",
+     "lifted",
+     "not a public health emergency",
+     "declared over"
+    ],
+    "title": "WHO declares an end to COVID-19 as a global health emergency",
+    "date": "2023-05-05",
+    "body": "The WHO Director-General has declared that COVID-19 no longer constitutes a Public Health Emergency of International Concern. This supersedes earlier determinations.",
+    "effective": null
+   },
+   "change_date": "2023-05-05",
+   "undated_old": false,
+   "t_past": null
+  },
+  {
+   "id": "md-aspirin",
+   "domain": "medicine",
+   "question": "Does the US Preventive Services Task Force recommend starting low-dose aspirin for primary prevention of cardiovascular disease in adults aged 60 years or older?",
+   "old": {
+    "answer": "it may be considered as an individual decision for some adults aged 60 to 69 at elevated risk",
+    "aliases": [
+     "individual",
+     "may be considered",
+     "selectively",
+     "case-by-case",
+     "some adults"
+    ],
+    "title": "USPSTF recommendation: aspirin for the primary prevention of cardiovascular disease",
+    "date": "2016-04-12",
+    "body": "The Task Force concludes that for adults aged 60 to 69 years with a 10 percent or greater 10-year cardiovascular risk, the decision to initiate low-dose aspirin should be an individual one. Evidence is insufficient for adults aged 70 and older."
+   },
+   "new": {
+    "answer": "no, it recommends against initiating aspirin in adults aged 60 or older",
+    "aliases": [
+     "against",
+     "not recommend",
+     "should not",
+     "does not recommend",
+     "recommends against"
+    ],
+    "title": "USPSTF final recommendation: aspirin use to prevent cardiovascular disease",
+    "date": "2022-04-26",
+    "body": "The Task Force recommends against initiating low-dose aspirin for the primary prevention of cardiovascular disease in adults aged 60 years or older. This recommendation supersedes the 2016 statement.",
+    "effective": null
+   },
+   "change_date": "2022-04-26",
+   "undated_old": false,
+   "t_past": null
+  },
+  {
+   "id": "md-hypertension",
+   "domain": "medicine",
+   "question": "At what blood pressure threshold is stage 1 hypertension diagnosed under the American College of Cardiology and American Heart Association guideline?",
+   "old": {
+    "answer": "140/90 mm Hg or higher",
+    "aliases": [
+     "140/90",
+     "140 over 90",
+     "140"
+    ],
+    "title": "Blood pressure classification for adults",
+    "date": "2014-02-05",
+    "body": "Hypertension in adults is defined as a systolic blood pressure of 140 mm Hg or higher or a diastolic pressure of 90 mm Hg or higher. Readings between 120/80 and 139/89 are classified as prehypertension."
+   },
+   "new": {
+    "answer": "130/80 mm Hg or higher",
+    "aliases": [
+     "130/80",
+     "130 over 80",
+     "130"
+    ],
+    "title": "ACC/AHA high blood pressure clinical practice guideline",
+    "date": "2017-11-13",
+    "body": "The new guideline defines stage 1 hypertension as a systolic pressure of 130 to 139 mm Hg or a diastolic pressure of 80 to 89 mm Hg. The former category of prehypertension is eliminated. This guideline supersedes the earlier 140/90 threshold.",
+    "effective": null
+   },
+   "change_date": "2017-11-13",
+   "undated_old": false,
+   "t_past": null
+  },
+  {
+   "id": "md-crc-screening",
+   "domain": "medicine",
+   "question": "At what age does the US Preventive Services Task Force recommend that adults at average risk begin colorectal cancer screening?",
+   "old": {
+    "answer": "age 50",
+    "aliases": [
+     "50",
+     "fifty"
+    ],
+    "title": "USPSTF recommendation: screening for colorectal cancer",
+    "date": "2016-06-15",
+    "body": "The Task Force recommends screening for colorectal cancer starting at age 50 years and continuing until age 75 years in adults at average risk."
+   },
+   "new": {
+    "answer": "age 45",
+    "aliases": [
+     "45",
+     "forty-five"
+    ],
+    "title": "USPSTF updated recommendation: colorectal cancer screening",
+    "date": "2021-05-18",
+    "body": "The Task Force now recommends that adults at average risk begin screening for colorectal cancer at age 45 years. This supersedes the 2016 recommendation to start at age 50.",
+    "effective": null
+   },
+   "change_date": "2021-05-18",
+   "undated_old": false,
+   "t_past": null
+  },
+  {
+   "id": "md-peanut",
+   "domain": "medicine",
+   "question": "When should peanut-containing foods be introduced to infants at high risk of peanut allergy, according to US guidelines?",
+   "old": {
+    "answer": "peanut should be avoided until the child is 3 years old",
+    "aliases": [
+     "avoid",
+     "3 years",
+     "three years",
+     "delayed",
+     "not until"
+    ],
+    "title": "Dietary recommendations for infants at risk of allergy",
+    "date": "2008-01-15",
+    "body": "For infants at high risk of allergy, it is advised that peanut-containing foods be avoided until the child reaches 3 years of age."
+   },
+   "new": {
+    "answer": "as early as 4 to 6 months of age",
+    "aliases": [
+     "4 to 6 months",
+     "4-6 months",
+     "four to six months",
+     "early introduction",
+     "6 months",
+     "4 months"
+    ],
+    "title": "Addendum guidelines for the prevention of peanut allergy in the United States",
+    "date": "2017-01-05",
+    "body": "Infants at high risk of peanut allergy should have peanut-containing foods introduced as early as 4 to 6 months of age, after evaluation. Early introduction reduces the risk of developing peanut allergy. This supersedes earlier advice to delay peanut until age 3.",
+    "effective": null
+   },
+   "change_date": "2017-01-05",
+   "undated_old": true,
+   "t_past": null
+  },
+  {
+   "id": "md-mpox",
+   "domain": "medicine",
+   "question": "What is the WHO's preferred name for the disease previously called monkeypox?",
+   "old": {
+    "answer": "monkeypox",
+    "aliases": [
+     "monkeypox"
+    ],
+    "title": "Monkeypox fact sheet",
+    "date": "2022-05-20",
+    "body": "Monkeypox is a viral zoonotic disease caused by the monkeypox virus. The disease is officially known as monkeypox."
+   },
+   "new": {
+    "answer": "mpox",
+    "aliases": [
+     "mpox"
+    ],
+    "title": "WHO recommends new name for monkeypox disease",
+    "date": "2022-11-28",
+    "body": "Following consultations, the WHO will use the new preferred term mpox as a synonym for monkeypox, and recommends that mpox be adopted as the name of the disease. This supersedes the earlier name.",
+    "effective": null
+   },
+   "change_date": "2022-11-28",
+   "undated_old": false,
+   "t_past": null
+  },
+  {
+   "id": "md-mammogram",
+   "domain": "medicine",
+   "question": "At what age does the US Preventive Services Task Force recommend women at average risk start biennial mammography screening?",
+   "old": {
+    "answer": "age 50",
+    "aliases": [
+     "50",
+     "fifty"
+    ],
+    "title": "USPSTF recommendation: breast cancer screening",
+    "date": "2016-01-12",
+    "body": "The Task Force recommends biennial screening mammography for women aged 50 to 74 years. The decision to start screening before age 50 should be an individual one."
+   },
+   "new": {
+    "answer": "age 40",
+    "aliases": [
+     "40",
+     "forty"
+    ],
+    "title": "USPSTF final recommendation: breast cancer screening",
+    "date": "2024-04-30",
+    "body": "The Task Force now recommends biennial screening mammography for all women starting at age 40 and continuing through age 74. This supersedes the previous recommendation to start at 50.",
+    "effective": null
+   },
+   "change_date": "2024-04-30",
+   "undated_old": false,
+   "t_past": null
+  },
+  {
+   "id": "bz-alphabet",
+   "domain": "business",
+   "question": "What is the parent company of Google?",
+   "old": {
+    "answer": "Google Inc. is itself the parent company",
+    "aliases": [
+     "google inc",
+     "google itself",
+     "no parent",
+     "google is the parent",
+     "is its own"
+    ],
+    "title": "Google Inc. corporate structure",
+    "date": "2015-02-02",
+    "body": "Google Inc. is a publicly traded company and is the parent of all Google products and subsidiaries, including YouTube and Android. Google Inc. has no parent company."
+   },
+   "new": {
+    "answer": "Alphabet Inc.",
+    "aliases": [
+     "alphabet"
+    ],
+    "title": "Alphabet becomes the parent company of Google",
+    "date": "2015-10-02",
+    "body": "Google has completed its reorganisation under a new holding company, Alphabet Inc. Google is now a wholly owned subsidiary of Alphabet. This supersedes the earlier structure.",
+    "effective": null
+   },
+   "change_date": "2015-10-02",
+   "undated_old": false,
+   "t_past": null
+  },
+  {
+   "id": "bz-twitter-owner",
+   "domain": "business",
+   "question": "Who owns the social media platform Twitter (X)?",
+   "old": {
+    "answer": "it is a publicly traded company owned by its shareholders",
+    "aliases": [
+     "public",
+     "shareholders",
+     "publicly traded",
+     "listed"
+    ],
+    "title": "Twitter, Inc. ownership",
+    "date": "2022-03-01",
+    "body": "Twitter, Inc. is a publicly traded company listed on the New York Stock Exchange and owned by its shareholders."
+   },
+   "new": {
+    "answer": "Elon Musk, through X Corp",
+    "aliases": [
+     "musk"
+    ],
+    "title": "Elon Musk completes acquisition of Twitter",
+    "date": "2022-10-27",
+    "body": "Elon Musk has completed his acquisition of Twitter, taking the company private. Twitter is now owned by Musk and has been merged into X Corp. This supersedes earlier ownership information.",
+    "effective": null
+   },
+   "change_date": "2022-10-27",
+   "undated_old": false,
+   "t_past": null
+  }
+ ],
+ "controls": [
+  {
+   "id": "c-light",
+   "domain": "science",
+   "question": "What is the speed of light in vacuum?",
+   "answer": "299,792,458 metres per second",
+   "aliases": [
+    "299,792,458",
+    "299792458",
+    "3 x 10^8",
+    "300,000 km"
+   ],
+   "title": "Physical constants",
+   "date": "2018-03-01",
+   "body": "The speed of light in vacuum is exactly 299,792,458 metres per second, a defined constant in the SI."
+  },
+  {
+   "id": "c-canberra",
+   "domain": "geography",
+   "question": "What is the capital city of Australia?",
+   "answer": "Canberra",
+   "aliases": [
+    "canberra"
+   ],
+   "title": "Australia country profile",
+   "date": "2019-05-14",
+   "body": "Canberra is the capital city of Australia. It is located in the Australian Capital Territory and is the seat of the federal government."
+  },
+  {
+   "id": "c-python-creator",
+   "domain": "software",
+   "question": "Who created the Python programming language?",
+   "answer": "Guido van Rossum",
+   "aliases": [
+    "guido",
+    "van rossum"
+   ],
+   "title": "History of Python",
+   "date": "2017-09-04",
+   "body": "Python was created by Guido van Rossum and first released in 1991. Van Rossum led the language's development for many years as its Benevolent Dictator For Life."
+  },
+  {
+   "id": "c-404",
+   "domain": "software",
+   "question": "What does the HTTP status code 404 mean?",
+   "answer": "Not Found",
+   "aliases": [
+    "not found"
+   ],
+   "title": "HTTP status codes reference",
+   "date": "2020-01-20",
+   "body": "The HTTP 404 Not Found status code indicates that the server cannot find the requested resource."
+  },
+  {
+   "id": "c-boiling",
+   "domain": "science",
+   "question": "At what temperature does water boil at standard atmospheric pressure?",
+   "answer": "100 degrees Celsius",
+   "aliases": [
+    "100"
+   ],
+   "title": "Properties of water",
+   "date": "2016-02-11",
+   "body": "At standard atmospheric pressure, water boils at 100 degrees Celsius (212 degrees Fahrenheit)."
+  },
+  {
+   "id": "c-bones",
+   "domain": "medicine",
+   "question": "How many bones are in the adult human body?",
+   "answer": "206",
+   "aliases": [
+    "206",
+    "two hundred and six"
+   ],
+   "title": "Human skeletal system",
+   "date": "2019-08-30",
+   "body": "The adult human skeleton consists of 206 bones. Infants are born with around 270 bones, many of which fuse during growth."
+  },
+  {
+   "id": "c-gold",
+   "domain": "science",
+   "question": "What is the chemical symbol for gold?",
+   "answer": "Au",
+   "aliases": [
+    "au"
+   ],
+   "title": "Chemical elements: gold",
+   "date": "2015-11-09",
+   "body": "Gold is a chemical element with the symbol Au, from the Latin aurum, and atomic number 79."
+  },
+  {
+   "id": "c-jupiter",
+   "domain": "science",
+   "question": "What is the largest planet in the Solar System?",
+   "answer": "Jupiter",
+   "aliases": [
+    "jupiter"
+   ],
+   "title": "The planets of the Solar System",
+   "date": "2018-07-23",
+   "body": "Jupiter is the largest planet in the Solar System, with a mass more than twice that of all the other planets combined."
+  },
+  {
+   "id": "c-nehru",
+   "domain": "history",
+   "question": "Who wrote the book The Discovery of India?",
+   "answer": "Jawaharlal Nehru",
+   "aliases": [
+    "nehru"
+   ],
+   "title": "The Discovery of India",
+   "date": "2014-10-02",
+   "body": "The Discovery of India was written by Jawaharlal Nehru during his imprisonment at Ahmednagar Fort and was published in 1946."
+  },
+  {
+   "id": "c-constitution",
+   "domain": "law",
+   "question": "On what date did the Constitution of India come into force?",
+   "answer": "26 January 1950",
+   "aliases": [
+    "26 january 1950",
+    "january 26, 1950",
+    "1950"
+   ],
+   "title": "The Constitution of India",
+   "date": "2017-01-26",
+   "body": "The Constitution of India was adopted on 26 November 1949 and came into force on 26 January 1950, which is celebrated as Republic Day."
+  },
+  {
+   "id": "c-git",
+   "domain": "software",
+   "question": "Who created the Git version control system?",
+   "answer": "Linus Torvalds",
+   "aliases": [
+    "torvalds",
+    "linus"
+   ],
+   "title": "A short history of Git",
+   "date": "2019-04-07",
+   "body": "Git was created by Linus Torvalds in 2005 for the development of the Linux kernel."
+  },
+  {
+   "id": "c-sql",
+   "domain": "software",
+   "question": "What does SQL stand for?",
+   "answer": "Structured Query Language",
+   "aliases": [
+    "structured query language"
+   ],
+   "title": "Introduction to SQL",
+   "date": "2016-06-15",
+   "body": "SQL stands for Structured Query Language and is the standard language for managing relational databases."
+  },
+  {
+   "id": "c-rbi-founded",
+   "domain": "history",
+   "question": "In which year was the Reserve Bank of India established?",
+   "answer": "1935",
+   "aliases": [
+    "1935"
+   ],
+   "title": "History of the Reserve Bank of India",
+   "date": "2015-04-01",
+   "body": "The Reserve Bank of India was established on 1 April 1935 in accordance with the Reserve Bank of India Act, 1934."
+  },
+  {
+   "id": "c-taj",
+   "domain": "geography",
+   "question": "In which city is the Taj Mahal located?",
+   "answer": "Agra",
+   "aliases": [
+    "agra"
+   ],
+   "title": "The Taj Mahal",
+   "date": "2018-02-14",
+   "body": "The Taj Mahal is a white marble mausoleum located in Agra, Uttar Pradesh, on the bank of the river Yamuna."
+  },
+  {
+   "id": "c-pacific",
+   "domain": "geography",
+   "question": "What is the largest ocean on Earth?",
+   "answer": "the Pacific Ocean",
+   "aliases": [
+    "pacific"
+   ],
+   "title": "The world's oceans",
+   "date": "2017-07-19",
+   "body": "The Pacific Ocean is the largest and deepest of Earth's oceans, covering about a third of the planet's surface."
+  },
+  {
+   "id": "c-relativity",
+   "domain": "science",
+   "question": "Who proposed the theory of general relativity?",
+   "answer": "Albert Einstein",
+   "aliases": [
+    "einstein"
+   ],
+   "title": "General relativity",
+   "date": "2015-11-25",
+   "body": "The theory of general relativity was published by Albert Einstein in 1915 and describes gravity as the curvature of spacetime."
+  },
+  {
+   "id": "c-https-port",
+   "domain": "software",
+   "question": "What is the default TCP port for HTTPS?",
+   "answer": "443",
+   "aliases": [
+    "443"
+   ],
+   "title": "Well-known network ports",
+   "date": "2019-10-10",
+   "body": "HTTPS uses TCP port 443 by default, while plain HTTP uses port 80."
+  },
+  {
+   "id": "c-isro-hq",
+   "domain": "science",
+   "question": "Where is the headquarters of ISRO located?",
+   "answer": "Bengaluru",
+   "aliases": [
+    "bengaluru",
+    "bangalore"
+   ],
+   "title": "About ISRO",
+   "date": "2020-08-15",
+   "body": "The Indian Space Research Organisation is headquartered in Bengaluru, Karnataka."
+  },
+  {
+   "id": "c-ganga",
+   "domain": "geography",
+   "question": "What is the longest river in India?",
+   "answer": "the Ganga (Ganges)",
+   "aliases": [
+    "ganga",
+    "ganges"
+   ],
+   "title": "Rivers of India",
+   "date": "2016-09-21",
+   "body": "The Ganga, also known as the Ganges, is the longest river in India, flowing about 2,525 kilometres from the Himalayas to the Bay of Bengal."
+  },
+  {
+   "id": "c-dna",
+   "domain": "science",
+   "question": "Who are credited with discovering the double-helix structure of DNA?",
+   "answer": "James Watson and Francis Crick",
+   "aliases": [
+    "watson",
+    "crick"
+   ],
+   "title": "Structure of DNA",
+   "date": "2018-04-25",
+   "body": "The double-helix structure of DNA was described by James Watson and Francis Crick in 1953, building on X-ray diffraction data from Rosalind Franklin and Maurice Wilkins."
+  }
+ ],
+ "documents": [
+  {
+   "doc_id": "sci-pluto#old",
+   "item": "sci-pluto",
+   "role": "old",
+   "title": "Introduction to the Solar System: the nine planets",
+   "true_date": "1999-03-10",
+   "true_effective": null,
+   "undated": false,
+   "text": "Introduction to the Solar System: the nine planets\nDate: 1999-03-10\n\nThe Solar System contains nine planets orbiting the Sun. In order from the Sun they are Mercury, Venus, Earth, Mars, Jupiter, Saturn, Uranus, Neptune and Pluto. Pluto, discovered in 1930 by Clyde Tombaugh, is the smallest and most distant planet and is classified as a planet by the International Astronomical Union."
+  },
+  {
+   "doc_id": "sci-pluto#new",
+   "item": "sci-pluto",
+   "role": "new",
+   "title": "IAU General Assembly resolution on the definition of a planet",
+   "true_date": "2006-08-24",
+   "true_effective": null,
+   "undated": false,
+   "text": "IAU General Assembly resolution on the definition of a planet\nDate: 2006-08-24\n\nThe International Astronomical Union has adopted a formal definition of the term planet. Under the new definition a planet must orbit the Sun, be nearly round, and have cleared the neighbourhood around its orbit. Pluto does not meet the third criterion and is therefore reclassified as a dwarf planet. The Solar System now has eight planets."
+  },
+  {
+   "doc_id": "sci-kilogram#old",
+   "item": "sci-kilogram",
+   "role": "old",
+   "title": "SI base units explained: the kilogram",
+   "true_date": "2012-06-05",
+   "true_effective": null,
+   "undated": false,
+   "text": "SI base units explained: the kilogram\nPublished: 5 June 2012\n\nThe kilogram is the only SI base unit still defined by a physical artefact. It is equal to the mass of the International Prototype Kilogram, a cylinder of platinum-iridium alloy kept at the International Bureau of Weights and Measures near Paris. National copies are periodically compared against the prototype."
+  },
+  {
+   "doc_id": "sci-kilogram#new",
+   "item": "sci-kilogram",
+   "role": "new",
+   "title": "Redefinition of the SI base units comes into force",
+   "true_date": "2019-05-20",
+   "true_effective": "2019-05-20",
+   "undated": false,
+   "text": "Redefinition of the SI base units comes into force\nNotification dated 20th May, 2019\n\nThe revised International System of Units is now in force. The kilogram is defined by taking the fixed numerical value of the Planck constant h to be 6.62607015 x 10^-34 joule seconds. The International Prototype Kilogram no longer has any role in the definition of the unit. This notice supersedes earlier descriptions of the kilogram as an artefact-based unit."
+  },
+  {
+   "doc_id": "sci-elements#old",
+   "item": "sci-elements",
+   "role": "old",
+   "title": "Status of the periodic table: named elements",
+   "true_date": "2013-02-18",
+   "true_effective": null,
+   "undated": false,
+   "text": "Status of the periodic table: named elements\nLast updated: February 2013\n\nThe periodic table currently contains 114 officially named elements, the most recent additions being flerovium (element 114) and livermorium (element 116). Claims for elements 113, 115, 117 and 118 remain under review and these elements have not yet been formally recognised or named."
+  },
+  {
+   "doc_id": "sci-elements#new",
+   "item": "sci-elements",
+   "role": "new",
+   "title": "IUPAC announces the names of four new elements",
+   "true_date": "2016-11-28",
+   "true_effective": null,
+   "undated": false,
+   "text": "IUPAC announces the names of four new elements\nPress release dated 28/11/2016\n\nIUPAC has approved the names nihonium (113), moscovium (115), tennessine (117) and oganesson (118). With these additions the seventh row of the periodic table is complete and the table now contains 118 officially named elements. This announcement supersedes the earlier provisional status of these elements."
+  },
+  {
+   "doc_id": "sci-tallest#old",
+   "item": "sci-tallest",
+   "role": "old",
+   "title": "World's tallest buildings: a record list",
+   "true_date": "2007-04-02",
+   "true_effective": null,
+   "undated": false,
+   "text": "World's tallest buildings: a record list\nLast updated: April 2007\n\nAt 508 metres including its spire, Taipei 101 in Taiwan holds the title of the world's tallest building, a record it has held since its completion. It surpassed the Petronas Towers in Kuala Lumpur, which previously held the record."
+  },
+  {
+   "doc_id": "sci-tallest#new",
+   "item": "sci-tallest",
+   "role": "new",
+   "title": "Burj Khalifa officially opened as the world's tallest building",
+   "true_date": "2010-01-04",
+   "true_effective": null,
+   "undated": false,
+   "text": "Burj Khalifa officially opened as the world's tallest building\nPublished: 4 January 2010\n\nThe Burj Khalifa in Dubai has been officially inaugurated and, at 828 metres, is now the tallest building in the world by a wide margin. It replaces Taipei 101 as the record holder."
+  },
+  {
+   "doc_id": "sci-saturn-moons#old",
+   "item": "sci-saturn-moons",
+   "role": "old",
+   "title": "Saturn overtakes Jupiter with 146 confirmed moons",
+   "true_date": "2023-05-12",
+   "true_effective": null,
+   "undated": false,
+   "text": "Saturn overtakes Jupiter with 146 confirmed moons\nDate: 2023-05-12\n\nFollowing the recognition of 62 newly confirmed satellites by the Minor Planet Center, Saturn now has 146 confirmed moons, the most of any planet in the Solar System, ahead of Jupiter."
+  },
+  {
+   "doc_id": "sci-saturn-moons#new",
+   "item": "sci-saturn-moons",
+   "role": "new",
+   "title": "128 new moons of Saturn confirmed, bringing the total to 274",
+   "true_date": "2025-03-11",
+   "true_effective": null,
+   "undated": false,
+   "text": "128 new moons of Saturn confirmed, bringing the total to 274\n(Issued 11 Mar 2025)\n\nThe International Astronomical Union's Minor Planet Center has ratified 128 additional moons of Saturn discovered using the Canada-France-Hawaii Telescope. Saturn's confirmed moon count rises to 274. This supersedes the previously reported total."
+  },
+  {
+   "doc_id": "sw-python2#old",
+   "item": "sw-python2",
+   "role": "old",
+   "title": "Python 2.7 maintenance status",
+   "true_date": "2015-04-14",
+   "true_effective": null,
+   "undated": true,
+   "text": "Python 2.7 maintenance status\n\nPython 2.7 remains an officially supported release series. The core developers continue to publish bug-fix and security releases of Python 2.7, and users may continue to rely on it in production. Python 3 is recommended for new projects."
+  },
+  {
+   "doc_id": "sw-python2#new",
+   "item": "sw-python2",
+   "role": "new",
+   "title": "Sunsetting Python 2: end of life reached",
+   "true_date": "2020-01-01",
+   "true_effective": null,
+   "undated": false,
+   "text": "Sunsetting Python 2: end of life reached\n(Issued 1 Jan 2020)\n\nPython 2 has reached its end of life. The core developers no longer provide any updates, bug fixes or security patches for Python 2.7. All users should migrate to Python 3. This notice supersedes earlier statements about continued Python 2.7 maintenance."
+  },
+  {
+   "doc_id": "sw-github-branch#old",
+   "item": "sw-github-branch",
+   "role": "old",
+   "title": "Creating a repository on GitHub",
+   "true_date": "2019-02-11",
+   "true_effective": null,
+   "undated": false,
+   "text": "Creating a repository on GitHub\nPress release dated 11/02/2019\n\nWhen you create a new repository on GitHub, an initial branch named master is created automatically. Commits are added to master unless you create and switch to another branch."
+  },
+  {
+   "doc_id": "sw-github-branch#new",
+   "item": "sw-github-branch",
+   "role": "new",
+   "title": "GitHub changes the default branch name for new repositories to main",
+   "true_date": "2020-10-01",
+   "true_effective": null,
+   "undated": false,
+   "text": "GitHub changes the default branch name for new repositories to main\nLast updated: October 2020\n\nAll new repositories created on GitHub now use main as the name of the default branch instead of master. Existing repositories are not affected unless their owners rename the branch. This supersedes the earlier default."
+  },
+  {
+   "doc_id": "sw-twitter-x#old",
+   "item": "sw-twitter-x",
+   "role": "old",
+   "title": "About Twitter",
+   "true_date": "2021-06-30",
+   "true_effective": null,
+   "undated": false,
+   "text": "About Twitter\nPress release dated 30/06/2021\n\nTwitter is a microblogging and social networking service on which users post and interact with short messages known as tweets. The service is operated by Twitter, Inc. and uses a blue bird as its logo."
+  },
+  {
+   "doc_id": "sw-twitter-x#new",
+   "item": "sw-twitter-x",
+   "role": "new",
+   "title": "Twitter rebrands as X",
+   "true_date": "2023-07-24",
+   "true_effective": null,
+   "undated": false,
+   "text": "Twitter rebrands as X\n(Issued 24 Jul 2023)\n\nThe platform formerly known as Twitter has been rebranded as X. The blue bird logo has been retired and replaced by a stylised letter X, and the service is now operated by X Corp. This supersedes all earlier branding."
+  },
+  {
+   "doc_id": "sw-meta#old",
+   "item": "sw-meta",
+   "role": "old",
+   "title": "Facebook, Inc. corporate overview",
+   "true_date": "2020-09-15",
+   "true_effective": null,
+   "undated": false,
+   "text": "Facebook, Inc. corporate overview\nDate: 2020-09-15\n\nFacebook, Inc. is the parent company that owns and operates the Facebook social network as well as Instagram, WhatsApp and Messenger. The company is headquartered in Menlo Park, California."
+  },
+  {
+   "doc_id": "sw-meta#new",
+   "item": "sw-meta",
+   "role": "new",
+   "title": "Facebook company changes its name to Meta",
+   "true_date": "2021-10-28",
+   "true_effective": null,
+   "undated": false,
+   "text": "Facebook company changes its name to Meta\nOctober 28, 2021\n\nThe company formerly known as Facebook, Inc. has changed its corporate name to Meta Platforms, Inc. Meta is now the parent company of the Facebook app, Instagram, WhatsApp and Messenger. This announcement supersedes earlier corporate naming."
+  },
+  {
+   "doc_id": "sw-java-cadence#old",
+   "item": "sw-java-cadence",
+   "role": "old",
+   "title": "Java SE release model",
+   "true_date": "2016-05-20",
+   "true_effective": null,
+   "undated": false,
+   "text": "Java SE release model\nNotification dated 20th May, 2016\n\nMajor releases of Java SE are feature-driven and ship roughly every two to three years, after all planned features are complete. Java SE 8 shipped in 2014 and Java SE 9 is planned for a later date once its major features are finished."
+  },
+  {
+   "doc_id": "sw-java-cadence#new",
+   "item": "sw-java-cadence",
+   "role": "new",
+   "title": "Faster, time-based Java release cadence announced",
+   "true_date": "2017-09-21",
+   "true_effective": null,
+   "undated": false,
+   "text": "Faster, time-based Java release cadence announced\nLast updated: September 2017\n\nBeginning with JDK 10, Java will move to a strict time-based release model with a new feature release every six months, in March and September. Long-term support releases will be designated every few years. This supersedes the previous feature-driven multi-year cadence."
+  },
+  {
+   "doc_id": "sw-angularjs#old",
+   "item": "sw-angularjs",
+   "role": "old",
+   "title": "AngularJS long-term support",
+   "true_date": "2019-07-01",
+   "true_effective": null,
+   "undated": false,
+   "text": "AngularJS long-term support\nJuly 1, 2019\n\nAngularJS is in a long-term support period. During this period the team publishes releases that fix security issues, browser compatibility problems and incompatibilities with jQuery updates. Applications on AngularJS remain supported."
+  },
+  {
+   "doc_id": "sw-angularjs#new",
+   "item": "sw-angularjs",
+   "role": "new",
+   "title": "AngularJS long-term support ends",
+   "true_date": "2022-01-01",
+   "true_effective": null,
+   "undated": false,
+   "text": "AngularJS long-term support ends\nPublished: 1 January 2022\n\nThe long-term support period for AngularJS has ended. The Angular team no longer publishes updates, security fixes or releases for AngularJS. Users are advised to migrate to Angular. This supersedes earlier support commitments."
+  },
+  {
+   "doc_id": "sw-ubuntu-desktop#old",
+   "item": "sw-ubuntu-desktop",
+   "role": "old",
+   "title": "Ubuntu desktop overview",
+   "true_date": "2016-04-21",
+   "true_effective": null,
+   "undated": false,
+   "text": "Ubuntu desktop overview\nApril 21, 2016\n\nUbuntu ships with Unity as its default desktop environment. Unity, developed by Canonical, features a launcher on the left side of the screen and a top panel with global menus."
+  },
+  {
+   "doc_id": "sw-ubuntu-desktop#new",
+   "item": "sw-ubuntu-desktop",
+   "role": "new",
+   "title": "Ubuntu 17.10 released with GNOME as the default desktop",
+   "true_date": "2017-10-19",
+   "true_effective": null,
+   "undated": false,
+   "text": "Ubuntu 17.10 released with GNOME as the default desktop\nOctober 19, 2017\n\nUbuntu now uses GNOME as its default desktop environment. Canonical has discontinued development of Unity and all new Ubuntu desktop releases ship with GNOME Shell. This supersedes earlier documentation describing Unity as the default."
+  },
+  {
+   "doc_id": "sw-ie11#old",
+   "item": "sw-ie11",
+   "role": "old",
+   "title": "Internet Explorer 11 support lifecycle",
+   "true_date": "2019-03-05",
+   "true_effective": null,
+   "undated": false,
+   "text": "Internet Explorer 11 support lifecycle\nMarch 5, 2019\n\nInternet Explorer 11 is a supported component of Windows and continues to receive security updates through Windows Update. Organisations may continue to deploy Internet Explorer 11 for legacy web applications."
+  },
+  {
+   "doc_id": "sw-ie11#new",
+   "item": "sw-ie11",
+   "role": "new",
+   "title": "Internet Explorer 11 desktop application retired",
+   "true_date": "2022-06-15",
+   "true_effective": null,
+   "undated": false,
+   "text": "Internet Explorer 11 desktop application retired\nNotification dated 15th June, 2022\n\nThe Internet Explorer 11 desktop application is retired and out of support. Users are redirected to Microsoft Edge, which includes an Internet Explorer mode for legacy sites. This notice supersedes previous lifecycle guidance for Internet Explorer 11."
+  },
+  {
+   "doc_id": "sw-docker-desktop#old",
+   "item": "sw-docker-desktop",
+   "role": "old",
+   "title": "Docker Desktop licensing",
+   "true_date": "2020-08-10",
+   "true_effective": null,
+   "undated": false,
+   "text": "Docker Desktop licensing\n(Issued 10 Aug 2020)\n\nDocker Desktop is available free of charge for all users, including individuals, small businesses and large enterprises. There is no licensing fee for commercial use."
+  },
+  {
+   "doc_id": "sw-docker-desktop#new",
+   "item": "sw-docker-desktop",
+   "role": "new",
+   "title": "Docker Desktop subscription requirement for large organisations",
+   "true_date": "2022-01-31",
+   "true_effective": "2022-01-31",
+   "undated": false,
+   "text": "Docker Desktop subscription requirement for large organisations\nDate: 2022-01-31\n\nDocker Desktop now requires a paid Docker subscription for professional use in organisations with more than 250 employees or more than 10 million US dollars in annual revenue. It remains free for personal use, education, non-commercial open source projects and small businesses. This supersedes earlier free-for-all licensing."
+  },
+  {
+   "doc_id": "sw-react-hooks#old",
+   "item": "sw-react-hooks",
+   "role": "old",
+   "title": "React components: function versus class",
+   "true_date": "2018-06-12",
+   "true_effective": null,
+   "undated": false,
+   "text": "React components: function versus class\nJune 12, 2018\n\nFunction components in React are stateless. If a component needs local state or lifecycle methods, it must be written as a class component extending React.Component. There is no way to use state inside a function component."
+  },
+  {
+   "doc_id": "sw-react-hooks#new",
+   "item": "sw-react-hooks",
+   "role": "new",
+   "title": "Introducing Hooks in React 16.8",
+   "true_date": "2019-02-06",
+   "true_effective": null,
+   "undated": false,
+   "text": "Introducing Hooks in React 16.8\nNotification dated 6th February, 2019\n\nReact 16.8 introduces Hooks. Hooks such as useState and useEffect let function components use state and other React features without writing a class. Hooks are now the recommended approach for new components. This supersedes earlier guidance that state requires class components."
+  },
+  {
+   "doc_id": "sw-centos8#old",
+   "item": "sw-centos8",
+   "role": "old",
+   "title": "CentOS Linux 8 lifecycle",
+   "true_date": "2020-05-18",
+   "true_effective": null,
+   "undated": true,
+   "text": "CentOS Linux 8 lifecycle\n\nCentOS Linux 8 is a community rebuild of Red Hat Enterprise Linux 8 and receives security and bug-fix updates as a supported distribution for production servers."
+  },
+  {
+   "doc_id": "sw-centos8#new",
+   "item": "sw-centos8",
+   "role": "new",
+   "title": "CentOS Linux 8 end of life",
+   "true_date": "2021-12-31",
+   "true_effective": null,
+   "undated": false,
+   "text": "CentOS Linux 8 end of life\nPublished: 31 December 2021\n\nCentOS Linux 8 has reached its end of life and no longer receives updates of any kind. The project has shifted to CentOS Stream. Users should migrate to CentOS Stream or another distribution. This supersedes earlier lifecycle statements."
+  },
+  {
+   "doc_id": "sw-tls#old",
+   "item": "sw-tls",
+   "role": "old",
+   "title": "TLS protocol versions in use",
+   "true_date": "2017-02-20",
+   "true_effective": null,
+   "undated": false,
+   "text": "TLS protocol versions in use\nNotification dated 20th February, 2017\n\nTLS 1.0, TLS 1.1 and TLS 1.2 are all valid published versions of the Transport Layer Security protocol. Servers commonly support all three versions for compatibility."
+  },
+  {
+   "doc_id": "sw-tls#new",
+   "item": "sw-tls",
+   "role": "new",
+   "title": "RFC 8996: Deprecating TLS 1.0 and TLS 1.1",
+   "true_date": "2021-03-23",
+   "true_effective": null,
+   "undated": false,
+   "text": "RFC 8996: Deprecating TLS 1.0 and TLS 1.1\nPress release dated 23/03/2021\n\nThe IETF has formally deprecated TLS 1.0 and TLS 1.1. These versions must not be used, and implementations should negotiate only TLS 1.2 or later. This document supersedes earlier guidance permitting these versions."
+  },
+  {
+   "doc_id": "sw-bitcoin-halving#old",
+   "item": "sw-bitcoin-halving",
+   "role": "old",
+   "title": "Bitcoin mining rewards after the third halving",
+   "true_date": "2020-05-11",
+   "true_effective": null,
+   "undated": false,
+   "text": "Bitcoin mining rewards after the third halving\nNotification dated 11th May, 2020\n\nFollowing the third halving, the Bitcoin block subsidy is 6.25 BTC per block. Miners receive this subsidy plus transaction fees for each block they add to the chain."
+  },
+  {
+   "doc_id": "sw-bitcoin-halving#new",
+   "item": "sw-bitcoin-halving",
+   "role": "new",
+   "title": "Fourth Bitcoin halving completed",
+   "true_date": "2024-04-20",
+   "true_effective": null,
+   "undated": false,
+   "text": "Fourth Bitcoin halving completed\nLast updated: April 2024\n\nThe fourth Bitcoin halving has occurred at block 840,000. The block subsidy has been reduced from 6.25 BTC to 3.125 BTC per block. This supersedes the previous reward schedule."
+  },
+  {
+   "doc_id": "sw-ga4#old",
+   "item": "sw-ga4",
+   "role": "old",
+   "title": "Setting up Google Analytics for your website",
+   "true_date": "2019-09-03",
+   "true_effective": null,
+   "undated": false,
+   "text": "Setting up Google Analytics for your website\n(Issued 3 Sep 2019)\n\nTo measure traffic on a website, create a Universal Analytics property in Google Analytics and add the tracking code to every page. Universal Analytics is the standard property type for websites."
+  },
+  {
+   "doc_id": "sw-ga4#new",
+   "item": "sw-ga4",
+   "role": "new",
+   "title": "Universal Analytics has stopped processing data",
+   "true_date": "2023-07-01",
+   "true_effective": "2023-07-01",
+   "undated": false,
+   "text": "Universal Analytics has stopped processing data\nPress release dated 01/07/2023\n\nStandard Universal Analytics properties have stopped processing new data. All website measurement must now use Google Analytics 4 properties. This supersedes earlier setup guidance based on Universal Analytics."
+  },
+  {
+   "doc_id": "sw-windows10#old",
+   "item": "sw-windows10",
+   "role": "old",
+   "title": "Windows 10 lifecycle",
+   "true_date": "2022-02-14",
+   "true_effective": null,
+   "undated": false,
+   "text": "Windows 10 lifecycle\nNotification dated 14th February, 2022\n\nWindows 10 is a supported operating system. Microsoft provides free monthly security and quality updates to all supported editions of Windows 10 through Windows Update."
+  },
+  {
+   "doc_id": "sw-windows10#new",
+   "item": "sw-windows10",
+   "role": "new",
+   "title": "Windows 10 reaches end of support",
+   "true_date": "2025-10-14",
+   "true_effective": null,
+   "undated": false,
+   "text": "Windows 10 reaches end of support\n(Issued 14 Oct 2025)\n\nWindows 10 has reached the end of support. Microsoft no longer provides free security updates, feature updates or technical support for Windows 10. Users should upgrade to Windows 11 or enrol in the paid Extended Security Updates programme. This supersedes previous lifecycle guidance."
+  },
+  {
+   "doc_id": "sw-tweet-length#old",
+   "item": "sw-tweet-length",
+   "role": "old",
+   "title": "Composing a tweet",
+   "true_date": "2016-03-08",
+   "true_effective": null,
+   "undated": false,
+   "text": "Composing a tweet\nPublished: 8 March 2016\n\nTweets are limited to 140 characters. If your message is longer, you must shorten it or split it across several tweets."
+  },
+  {
+   "doc_id": "sw-tweet-length#new",
+   "item": "sw-tweet-length",
+   "role": "new",
+   "title": "Twitter doubles the character limit to 280",
+   "true_date": "2017-11-07",
+   "true_effective": null,
+   "undated": false,
+   "text": "Twitter doubles the character limit to 280\nDate: 2017-11-07\n\nThe character limit for tweets has been raised from 140 to 280 characters for all users in most languages. This supersedes the earlier 140-character limit."
+  },
+  {
+   "doc_id": "sw-iphone-port#old",
+   "item": "sw-iphone-port",
+   "role": "old",
+   "title": "iPhone charging and connectivity",
+   "true_date": "2022-09-16",
+   "true_effective": null,
+   "undated": false,
+   "text": "iPhone charging and connectivity\nDate: 2022-09-16\n\nAll current iPhone models charge and connect to accessories through Apple's proprietary Lightning port. A Lightning to USB cable is included with the phone."
+  },
+  {
+   "doc_id": "sw-iphone-port#new",
+   "item": "sw-iphone-port",
+   "role": "new",
+   "title": "iPhone 15 adopts USB-C",
+   "true_date": "2023-09-12",
+   "true_effective": null,
+   "undated": false,
+   "text": "iPhone 15 adopts USB-C\nLast updated: September 2023\n\nThe newly announced iPhone 15 line replaces the Lightning port with a USB-C connector for charging and data transfer. All subsequent iPhone models use USB-C. This supersedes earlier documentation of the Lightning connector."
+  },
+  {
+   "doc_id": "sw-macos-shell#old",
+   "item": "sw-macos-shell",
+   "role": "old",
+   "title": "Using the Terminal in macOS",
+   "true_date": "2018-10-01",
+   "true_effective": null,
+   "undated": false,
+   "text": "Using the Terminal in macOS\nLast updated: October 2018\n\nWhen you open Terminal in macOS, a bash shell starts by default. bash is the default login shell for all user accounts on macOS."
+  },
+  {
+   "doc_id": "sw-macos-shell#new",
+   "item": "sw-macos-shell",
+   "role": "new",
+   "title": "macOS Catalina makes zsh the default shell",
+   "true_date": "2019-10-07",
+   "true_effective": null,
+   "undated": false,
+   "text": "macOS Catalina makes zsh the default shell\n(Issued 7 Oct 2019)\n\nStarting with macOS Catalina, zsh is the default login shell for new user accounts. bash remains available but is no longer the default. This supersedes earlier documentation describing bash as the default."
+  },
+  {
+   "doc_id": "sw-flash#old",
+   "item": "sw-flash",
+   "role": "old",
+   "title": "Adobe Flash Player support",
+   "true_date": "2016-05-02",
+   "true_effective": null,
+   "undated": true,
+   "text": "Adobe Flash Player support\n\nAdobe continues to support and update Flash Player with regular security releases for all major browsers and operating systems."
+  },
+  {
+   "doc_id": "sw-flash#new",
+   "item": "sw-flash",
+   "role": "new",
+   "title": "Adobe Flash Player end of life",
+   "true_date": "2020-12-31",
+   "true_effective": null,
+   "undated": false,
+   "text": "Adobe Flash Player end of life\nDecember 31, 2020\n\nAdobe Flash Player has reached end of life. Adobe no longer supports Flash Player and blocks Flash content from running. Users should uninstall Flash Player. This supersedes earlier support statements."
+  },
+  {
+   "doc_id": "sw-java-lts#old",
+   "item": "sw-java-lts",
+   "role": "old",
+   "title": "JDK 21 released as the new LTS version",
+   "true_date": "2023-09-19",
+   "true_effective": null,
+   "undated": false,
+   "text": "JDK 21 released as the new LTS version\nDate: 2023-09-19\n\nJDK 21 is now generally available and is the latest long-term-support release of Java, succeeding JDK 17. Oracle will provide extended support for JDK 21 for several years."
+  },
+  {
+   "doc_id": "sw-java-lts#new",
+   "item": "sw-java-lts",
+   "role": "new",
+   "title": "JDK 25 released as the new LTS version",
+   "true_date": "2025-09-16",
+   "true_effective": null,
+   "undated": false,
+   "text": "JDK 25 released as the new LTS version\nLast updated: September 2025\n\nJDK 25 is now generally available and is designated the newest long-term-support release of Java, succeeding JDK 21 as the current LTS. This supersedes the earlier LTS designation."
+  },
+  {
+   "doc_id": "sw-gdpr#old",
+   "item": "sw-gdpr",
+   "role": "old",
+   "title": "EU data protection framework",
+   "true_date": "2016-01-20",
+   "true_effective": null,
+   "undated": false,
+   "text": "EU data protection framework\nPublished: 20 January 2016\n\nData protection in the European Union is governed by Directive 95/46/EC, which each member state implements through its own national legislation."
+  },
+  {
+   "doc_id": "sw-gdpr#new",
+   "item": "sw-gdpr",
+   "role": "new",
+   "title": "GDPR becomes applicable across the EU",
+   "true_date": "2018-05-25",
+   "true_effective": "2018-05-25",
+   "undated": false,
+   "text": "GDPR becomes applicable across the EU\nLast updated: May 2018\n\nThe General Data Protection Regulation (EU) 2016/679 now applies directly in all EU member states and repeals Directive 95/46/EC. This supersedes the previous directive-based framework."
+  },
+  {
+   "doc_id": "in-ipc#old",
+   "item": "in-ipc",
+   "role": "old",
+   "title": "Overview of criminal law in India",
+   "true_date": "2021-08-10",
+   "true_effective": null,
+   "undated": false,
+   "text": "Overview of criminal law in India\nLast updated: August 2021\n\nThe Indian Penal Code, 1860 is the principal criminal code of India. It defines offences and prescribes punishments, and it is applied together with the Code of Criminal Procedure and the Indian Evidence Act."
+  },
+  {
+   "doc_id": "in-ipc#new",
+   "item": "in-ipc",
+   "role": "new",
+   "title": "New criminal laws come into force",
+   "true_date": "2024-07-01",
+   "true_effective": "2024-07-01",
+   "undated": false,
+   "text": "New criminal laws come into force\nNotification dated 1st July, 2024\n\nThe Bharatiya Nyaya Sanhita, 2023 has come into force and replaces the Indian Penal Code, 1860 as India's principal criminal code. The Bharatiya Nagarik Suraksha Sanhita and the Bharatiya Sakshya Adhiniyam replace the Code of Criminal Procedure and the Indian Evidence Act respectively. This supersedes the earlier statutes."
+  },
+  {
+   "doc_id": "in-evidence#old",
+   "item": "in-evidence",
+   "role": "old",
+   "title": "Law of evidence in India: a primer",
+   "true_date": "2020-02-03",
+   "true_effective": null,
+   "undated": true,
+   "text": "Law of evidence in India: a primer\n\nThe admissibility and relevance of evidence in Indian courts is governed by the Indian Evidence Act, 1872, which applies to all judicial proceedings in India."
+  },
+  {
+   "doc_id": "in-evidence#new",
+   "item": "in-evidence",
+   "role": "new",
+   "title": "Bharatiya Sakshya Adhiniyam replaces the Indian Evidence Act",
+   "true_date": "2024-07-01",
+   "true_effective": "2024-07-01",
+   "undated": false,
+   "text": "Bharatiya Sakshya Adhiniyam replaces the Indian Evidence Act\nDate: 2024-07-01\n\nThe Bharatiya Sakshya Adhiniyam, 2023 is now in force and replaces the Indian Evidence Act, 1872 as the law governing evidence in Indian courts. This supersedes the earlier Act."
+  },
+  {
+   "doc_id": "in-377#old",
+   "item": "in-377",
+   "role": "old",
+   "title": "Section 377 of the Indian Penal Code",
+   "true_date": "2016-11-15",
+   "true_effective": null,
+   "undated": false,
+   "text": "Section 377 of the Indian Penal Code\nNovember 15, 2016\n\nSection 377 of the Indian Penal Code criminalises carnal intercourse against the order of nature and, as upheld by the Supreme Court, applies to consensual sexual activity between adults of the same sex, which is therefore a punishable offence."
+  },
+  {
+   "doc_id": "in-377#new",
+   "item": "in-377",
+   "role": "new",
+   "title": "Supreme Court judgment in Navtej Singh Johar v. Union of India",
+   "true_date": "2018-09-06",
+   "true_effective": null,
+   "undated": false,
+   "text": "Supreme Court judgment in Navtej Singh Johar v. Union of India\nSeptember 6, 2018\n\nA Constitution Bench of the Supreme Court has held that Section 377, in so far as it criminalises consensual sexual conduct between adults of the same sex, is unconstitutional. Such conduct is no longer a criminal offence. This judgment supersedes the earlier position."
+  },
+  {
+   "doc_id": "in-triple-talaq#old",
+   "item": "in-triple-talaq",
+   "role": "old",
+   "title": "Legal status of talaq-e-biddat",
+   "true_date": "2017-10-10",
+   "true_effective": null,
+   "undated": false,
+   "text": "Legal status of talaq-e-biddat\n(Issued 10 Oct 2017)\n\nAlthough the Supreme Court has declared instant triple talaq invalid as a means of divorce, pronouncing it is not a criminal offence under any statute, and no penal consequences attach to the husband."
+  },
+  {
+   "doc_id": "in-triple-talaq#new",
+   "item": "in-triple-talaq",
+   "role": "new",
+   "title": "The Muslim Women (Protection of Rights on Marriage) Act, 2019",
+   "true_date": "2019-07-31",
+   "true_effective": "2019-07-31",
+   "undated": false,
+   "text": "The Muslim Women (Protection of Rights on Marriage) Act, 2019\nLast updated: July 2019\n\nThe Act makes the pronouncement of instant triple talaq by a Muslim husband void and illegal, and a cognisable offence punishable with imprisonment of up to three years and a fine. This supersedes the earlier position that no penal consequences attached."
+  },
+  {
+   "doc_id": "in-article370#old",
+   "item": "in-article370",
+   "role": "old",
+   "title": "Article 370 and the status of Jammu and Kashmir",
+   "true_date": "2018-04-09",
+   "true_effective": null,
+   "undated": false,
+   "text": "Article 370 and the status of Jammu and Kashmir\nDate: 2018-04-09\n\nUnder Article 370 of the Constitution, the State of Jammu and Kashmir enjoys special autonomous status. Parliament's power to make laws for the state is limited, and the state has its own constitution."
+  },
+  {
+   "doc_id": "in-article370#new",
+   "item": "in-article370",
+   "role": "new",
+   "title": "Presidential order revokes the special status of Jammu and Kashmir",
+   "true_date": "2019-08-05",
+   "true_effective": null,
+   "undated": false,
+   "text": "Presidential order revokes the special status of Jammu and Kashmir\nDate: 2019-08-05\n\nBy Presidential order, the special status conferred on Jammu and Kashmir under Article 370 has been revoked, and all provisions of the Constitution of India now apply to the territory. The State is being reorganised into two Union Territories. This supersedes the earlier constitutional position."
+  },
+  {
+   "doc_id": "in-niti#old",
+   "item": "in-niti",
+   "role": "old",
+   "title": "The Planning Commission of India",
+   "true_date": "2013-07-22",
+   "true_effective": null,
+   "undated": false,
+   "text": "The Planning Commission of India\nDate: 2013-07-22\n\nThe Planning Commission is the Government of India's apex body for formulating Five-Year Plans and allocating plan funds to states and central ministries. It is chaired by the Prime Minister."
+  },
+  {
+   "doc_id": "in-niti#new",
+   "item": "in-niti",
+   "role": "new",
+   "title": "NITI Aayog replaces the Planning Commission",
+   "true_date": "2015-01-01",
+   "true_effective": null,
+   "undated": false,
+   "text": "NITI Aayog replaces the Planning Commission\nPress release dated 01/01/2015\n\nThe Government of India has established NITI Aayog (National Institution for Transforming India) as its policy think tank, replacing the Planning Commission. NITI Aayog is now the apex policy body. This supersedes the earlier arrangement."
+  },
+  {
+   "doc_id": "in-tax-regime#old",
+   "item": "in-tax-regime",
+   "role": "old",
+   "title": "Choosing between the old and new income tax regimes",
+   "true_date": "2021-06-15",
+   "true_effective": null,
+   "undated": false,
+   "text": "Choosing between the old and new income tax regimes\nDate: 2021-06-15\n\nIndividual taxpayers in India are assessed under the old tax regime by default, which allows deductions and exemptions. Taxpayers may opt into the new concessional tax regime under section 115BAC if they wish."
+  },
+  {
+   "doc_id": "in-tax-regime#new",
+   "item": "in-tax-regime",
+   "role": "new",
+   "title": "New tax regime becomes the default",
+   "true_date": "2023-04-01",
+   "true_effective": "2023-04-01",
+   "undated": false,
+   "text": "New tax regime becomes the default\nPublished: 1 April 2023\n\nThe new concessional income tax regime under section 115BAC is now the default regime for individual taxpayers. Those who wish to claim deductions under the old regime must opt out of the new regime. This supersedes the earlier default."
+  },
+  {
+   "doc_id": "in-president#old",
+   "item": "in-president",
+   "role": "old",
+   "title": "The President of India",
+   "true_date": "2021-01-26",
+   "true_effective": null,
+   "undated": false,
+   "text": "The President of India\nLast updated: January 2021\n\nRam Nath Kovind is the President of India, the constitutional head of state. He assumed office as the fourteenth President."
+  },
+  {
+   "doc_id": "in-president#new",
+   "item": "in-president",
+   "role": "new",
+   "title": "Droupadi Murmu sworn in as President of India",
+   "true_date": "2022-07-25",
+   "true_effective": null,
+   "undated": false,
+   "text": "Droupadi Murmu sworn in as President of India\nLast updated: July 2022\n\nDroupadi Murmu has been sworn in as the fifteenth President of India, succeeding Ram Nath Kovind. This supersedes earlier records of the office holder."
+  },
+  {
+   "doc_id": "in-gst-gaming#old",
+   "item": "in-gst-gaming",
+   "role": "old",
+   "title": "GST treatment of online gaming",
+   "true_date": "2022-03-14",
+   "true_effective": null,
+   "undated": false,
+   "text": "GST treatment of online gaming\nDate: 2022-03-14\n\nOnline gaming platforms in India pay Goods and Services Tax at 18 percent on the platform fee or gross gaming revenue they retain, not on the total amount staked by players."
+  },
+  {
+   "doc_id": "in-gst-gaming#new",
+   "item": "in-gst-gaming",
+   "role": "new",
+   "title": "28 percent GST on online money gaming comes into effect",
+   "true_date": "2023-10-01",
+   "true_effective": "2023-10-01",
+   "undated": false,
+   "text": "28 percent GST on online money gaming comes into effect\nDate: 2023-10-01\n\nOnline money gaming, casinos and horse racing are now taxed at 28 percent GST on the full face value of bets or deposits, following amendments to the GST laws. This supersedes the earlier 18 percent treatment."
+  },
+  {
+   "doc_id": "in-gst-insurance#old",
+   "item": "in-gst-insurance",
+   "role": "old",
+   "title": "GST on insurance premiums",
+   "true_date": "2024-02-05",
+   "true_effective": null,
+   "undated": false,
+   "text": "GST on insurance premiums\nFebruary 5, 2024\n\nPremiums paid for individual health insurance and life insurance policies in India attract Goods and Services Tax at the standard rate of 18 percent."
+  },
+  {
+   "doc_id": "in-gst-insurance#new",
+   "item": "in-gst-insurance",
+   "role": "new",
+   "title": "GST exemption on individual life and health insurance",
+   "true_date": "2025-09-22",
+   "true_effective": "2025-09-22",
+   "undated": false,
+   "text": "GST exemption on individual life and health insurance\nSeptember 22, 2025\n\nIndividual life insurance and individual health insurance policies, including family floater and senior citizen policies, are now exempt from GST. The earlier 18 percent levy no longer applies. This supersedes the earlier treatment."
+  },
+  {
+   "doc_id": "in-gst-slabs#old",
+   "item": "in-gst-slabs",
+   "role": "old",
+   "title": "Structure of GST rates in India",
+   "true_date": "2023-01-09",
+   "true_effective": null,
+   "undated": false,
+   "text": "Structure of GST rates in India\nNotification dated 9th January, 2023\n\nGoods and services in India are taxed under four main GST slabs of 5 percent, 12 percent, 18 percent and 28 percent, with a compensation cess on certain luxury and demerit goods."
+  },
+  {
+   "doc_id": "in-gst-slabs#new",
+   "item": "in-gst-slabs",
+   "role": "new",
+   "title": "Rationalised two-rate GST structure takes effect",
+   "true_date": "2025-09-22",
+   "true_effective": "2025-09-22",
+   "undated": false,
+   "text": "Rationalised two-rate GST structure takes effect\nPress release dated 22/09/2025\n\nThe GST rate structure has been rationalised into two main slabs of 5 percent and 18 percent. The 12 percent and 28 percent slabs have been abolished, and a special 40 percent rate applies to luxury and sin goods. This supersedes the earlier four-slab structure."
+  },
+  {
+   "doc_id": "in-uts#old",
+   "item": "in-uts",
+   "role": "old",
+   "title": "States and Union Territories of India",
+   "true_date": "2018-03-12",
+   "true_effective": null,
+   "undated": false,
+   "text": "States and Union Territories of India\n(Issued 12 Mar 2018)\n\nIndia is a union of 29 states and 7 union territories. The union territories are administered by the central government through administrators or lieutenant governors."
+  },
+  {
+   "doc_id": "in-uts#new",
+   "item": "in-uts",
+   "role": "new",
+   "title": "Merger of Dadra and Nagar Haveli with Daman and Diu",
+   "true_date": "2020-01-26",
+   "true_effective": null,
+   "undated": false,
+   "text": "Merger of Dadra and Nagar Haveli with Daman and Diu\nNotification dated 26th January, 2020\n\nFollowing the reorganisation of Jammu and Kashmir into two union territories and the merger of Dadra and Nagar Haveli with Daman and Diu into a single union territory, India now has 28 states and 8 union territories. This supersedes earlier counts."
+  },
+  {
+   "doc_id": "in-5g#old",
+   "item": "in-5g",
+   "role": "old",
+   "title": "Status of 5G in India",
+   "true_date": "2021-11-02",
+   "true_effective": null,
+   "undated": true,
+   "text": "Status of 5G in India\n\nCommercial 5G services are not yet available in India. Spectrum auctions have not been completed and telecom operators are conducting trials only."
+  },
+  {
+   "doc_id": "in-5g#new",
+   "item": "in-5g",
+   "role": "new",
+   "title": "Commercial 5G services launched in India",
+   "true_date": "2022-10-01",
+   "true_effective": null,
+   "undated": false,
+   "text": "Commercial 5G services launched in India\nOctober 1, 2022\n\nThe Prime Minister has formally launched commercial 5G services in India. Telecom operators are rolling out 5G networks in major cities. This supersedes earlier statements that 5G was unavailable."
+  },
+  {
+   "doc_id": "in-isro#old",
+   "item": "in-isro",
+   "role": "old",
+   "title": "ISRO leadership",
+   "true_date": "2023-08-24",
+   "true_effective": null,
+   "undated": false,
+   "text": "ISRO leadership\nLast updated: August 2023\n\nS. Somanath is the Chairman of the Indian Space Research Organisation and Secretary of the Department of Space."
+  },
+  {
+   "doc_id": "in-isro#new",
+   "item": "in-isro",
+   "role": "new",
+   "title": "V. Narayanan takes over as ISRO Chairman",
+   "true_date": "2025-01-14",
+   "true_effective": null,
+   "undated": false,
+   "text": "V. Narayanan takes over as ISRO Chairman\n(Issued 14 Jan 2025)\n\nV. Narayanan has assumed charge as Chairman of ISRO and Secretary of the Department of Space, succeeding S. Somanath. This supersedes earlier leadership records."
+  },
+  {
+   "doc_id": "in-rbi#old",
+   "item": "in-rbi",
+   "role": "old",
+   "title": "Governor of the Reserve Bank of India",
+   "true_date": "2023-05-02",
+   "true_effective": null,
+   "undated": false,
+   "text": "Governor of the Reserve Bank of India\nNotification dated 2nd May, 2023\n\nShaktikanta Das is the Governor of the Reserve Bank of India, the country's central bank."
+  },
+  {
+   "doc_id": "in-rbi#new",
+   "item": "in-rbi",
+   "role": "new",
+   "title": "Sanjay Malhotra assumes office as RBI Governor",
+   "true_date": "2024-12-11",
+   "true_effective": null,
+   "undated": false,
+   "text": "Sanjay Malhotra assumes office as RBI Governor\nPublished: 11 December 2024\n\nSanjay Malhotra has taken charge as the twenty-sixth Governor of the Reserve Bank of India, succeeding Shaktikanta Das. This supersedes earlier records."
+  },
+  {
+   "doc_id": "in-delhi-cm#old",
+   "item": "in-delhi-cm",
+   "role": "old",
+   "title": "Atishi sworn in as Chief Minister of Delhi",
+   "true_date": "2024-09-21",
+   "true_effective": null,
+   "undated": false,
+   "text": "Atishi sworn in as Chief Minister of Delhi\n(Issued 21 Sep 2024)\n\nAtishi has been sworn in as the Chief Minister of Delhi, succeeding Arvind Kejriwal."
+  },
+  {
+   "doc_id": "in-delhi-cm#new",
+   "item": "in-delhi-cm",
+   "role": "new",
+   "title": "Rekha Gupta sworn in as Chief Minister of Delhi",
+   "true_date": "2025-02-20",
+   "true_effective": null,
+   "undated": false,
+   "text": "Rekha Gupta sworn in as Chief Minister of Delhi\nNotification dated 20th February, 2025\n\nRekha Gupta has been sworn in as the Chief Minister of Delhi following the assembly election. She succeeds Atishi. This supersedes earlier records."
+  },
+  {
+   "doc_id": "in-vp#old",
+   "item": "in-vp",
+   "role": "old",
+   "title": "The Vice President of India",
+   "true_date": "2024-03-05",
+   "true_effective": null,
+   "undated": false,
+   "text": "The Vice President of India\nMarch 5, 2024\n\nJagdeep Dhankhar is the Vice President of India and ex officio Chairman of the Rajya Sabha."
+  },
+  {
+   "doc_id": "in-vp#new",
+   "item": "in-vp",
+   "role": "new",
+   "title": "C. P. Radhakrishnan sworn in as Vice President",
+   "true_date": "2025-09-12",
+   "true_effective": null,
+   "undated": false,
+   "text": "C. P. Radhakrishnan sworn in as Vice President\nLast updated: September 2025\n\nC. P. Radhakrishnan has been sworn in as the Vice President of India following the resignation of Jagdeep Dhankhar. This supersedes earlier records."
+  },
+  {
+   "doc_id": "in-prayagraj#old",
+   "item": "in-prayagraj",
+   "role": "old",
+   "title": "District profile: Allahabad",
+   "true_date": "2017-05-30",
+   "true_effective": null,
+   "undated": false,
+   "text": "District profile: Allahabad\nPress release dated 30/05/2017\n\nAllahabad is a major city and district headquarters in Uttar Pradesh, located at the confluence of the Ganga and Yamuna rivers. The city's official name is Allahabad."
+  },
+  {
+   "doc_id": "in-prayagraj#new",
+   "item": "in-prayagraj",
+   "role": "new",
+   "title": "Allahabad officially renamed Prayagraj",
+   "true_date": "2018-10-16",
+   "true_effective": null,
+   "undated": false,
+   "text": "Allahabad officially renamed Prayagraj\nNotification dated 16th October, 2018\n\nThe Uttar Pradesh government has officially renamed the city and district of Allahabad as Prayagraj. All official records now use the name Prayagraj. This supersedes the earlier name."
+  },
+  {
+   "doc_id": "in-sambhajinagar#old",
+   "item": "in-sambhajinagar",
+   "role": "old",
+   "title": "District profile: Aurangabad",
+   "true_date": "2021-04-12",
+   "true_effective": null,
+   "undated": false,
+   "text": "District profile: Aurangabad\nDate: 2021-04-12\n\nAurangabad is a city and district headquarters in Maharashtra, known for the nearby Ajanta and Ellora caves. Its official name is Aurangabad."
+  },
+  {
+   "doc_id": "in-sambhajinagar#new",
+   "item": "in-sambhajinagar",
+   "role": "new",
+   "title": "Aurangabad renamed Chhatrapati Sambhajinagar",
+   "true_date": "2023-02-24",
+   "true_effective": null,
+   "undated": false,
+   "text": "Aurangabad renamed Chhatrapati Sambhajinagar\n(Issued 24 Feb 2023)\n\nThe Union Home Ministry has approved the renaming of Aurangabad city and district in Maharashtra as Chhatrapati Sambhajinagar. Official records now use the new name. This supersedes the earlier name."
+  },
+  {
+   "doc_id": "in-air-india#old",
+   "item": "in-air-india",
+   "role": "old",
+   "title": "Air India corporate profile",
+   "true_date": "2020-07-07",
+   "true_effective": null,
+   "undated": false,
+   "text": "Air India corporate profile\nDate: 2020-07-07\n\nAir India is the flag carrier airline of India, wholly owned by the Government of India through the Ministry of Civil Aviation."
+  },
+  {
+   "doc_id": "in-air-india#new",
+   "item": "in-air-india",
+   "role": "new",
+   "title": "Air India handed over to the Tata Group",
+   "true_date": "2022-01-27",
+   "true_effective": null,
+   "undated": false,
+   "text": "Air India handed over to the Tata Group\n(Issued 27 Jan 2022)\n\nThe Government of India has completed the strategic disinvestment of Air India, transferring full ownership to Talace Private Limited, a subsidiary of Tata Sons. Air India is now owned by the Tata Group. This supersedes earlier ownership records."
+  },
+  {
+   "doc_id": "in-ipl-teams#old",
+   "item": "in-ipl-teams",
+   "role": "old",
+   "title": "About the Indian Premier League",
+   "true_date": "2020-09-19",
+   "true_effective": null,
+   "undated": false,
+   "text": "About the Indian Premier League\nNotification dated 19th September, 2020\n\nThe Indian Premier League is a professional Twenty20 cricket league contested by eight franchise teams representing Indian cities."
+  },
+  {
+   "doc_id": "in-ipl-teams#new",
+   "item": "in-ipl-teams",
+   "role": "new",
+   "title": "IPL expands to ten teams",
+   "true_date": "2022-03-26",
+   "true_effective": null,
+   "undated": false,
+   "text": "IPL expands to ten teams\nMarch 26, 2022\n\nWith the addition of the Gujarat Titans and the Lucknow Super Giants, the Indian Premier League is now contested by ten franchise teams. This supersedes earlier descriptions of an eight-team league."
+  },
+  {
+   "doc_id": "wd-uk-monarch#old",
+   "item": "wd-uk-monarch",
+   "role": "old",
+   "title": "The British monarchy",
+   "true_date": "2021-06-02",
+   "true_effective": null,
+   "undated": false,
+   "text": "The British monarchy\nLast updated: June 2021\n\nQueen Elizabeth II is the reigning monarch of the United Kingdom and the other Commonwealth realms, having acceded to the throne in 1952."
+  },
+  {
+   "doc_id": "wd-uk-monarch#new",
+   "item": "wd-uk-monarch",
+   "role": "new",
+   "title": "Accession of King Charles III",
+   "true_date": "2022-09-08",
+   "true_effective": null,
+   "undated": false,
+   "text": "Accession of King Charles III\nSeptember 8, 2022\n\nFollowing the death of Queen Elizabeth II, her son has acceded to the throne as King Charles III and is now the reigning monarch of the United Kingdom. This supersedes earlier records."
+  },
+  {
+   "doc_id": "wd-nato#old",
+   "item": "wd-nato",
+   "role": "old",
+   "title": "Finland joins NATO",
+   "true_date": "2023-04-04",
+   "true_effective": null,
+   "undated": false,
+   "text": "Finland joins NATO\nPress release dated 04/04/2023\n\nFinland has formally joined the North Atlantic Treaty Organization as its thirty-first member, becoming the newest member of the alliance."
+  },
+  {
+   "doc_id": "wd-nato#new",
+   "item": "wd-nato",
+   "role": "new",
+   "title": "Sweden joins NATO as the thirty-second member",
+   "true_date": "2024-03-07",
+   "true_effective": null,
+   "undated": false,
+   "text": "Sweden joins NATO as the thirty-second member\nPress release dated 07/03/2024\n\nSweden has formally become the thirty-second member of NATO and is now the alliance's most recent member, following Finland. This supersedes earlier records."
+  },
+  {
+   "doc_id": "wd-turkiye#old",
+   "item": "wd-turkiye",
+   "role": "old",
+   "title": "Member states of the United Nations: Turkey",
+   "true_date": "2020-10-05",
+   "true_effective": null,
+   "undated": false,
+   "text": "Member states of the United Nations: Turkey\nNotification dated 5th October, 2020\n\nThe Republic of Turkey is listed at the United Nations under the name Turkey, a founding member of the organisation."
+  },
+  {
+   "doc_id": "wd-turkiye#new",
+   "item": "wd-turkiye",
+   "role": "new",
+   "title": "United Nations registers the name Türkiye",
+   "true_date": "2022-06-01",
+   "true_effective": null,
+   "undated": false,
+   "text": "United Nations registers the name Türkiye\nPublished: 1 June 2022\n\nThe United Nations has accepted the request of the Republic of Türkiye to change its registered name from Turkey to Türkiye in all official documents. This supersedes the earlier name."
+  },
+  {
+   "doc_id": "wd-north-macedonia#old",
+   "item": "wd-north-macedonia",
+   "role": "old",
+   "title": "Country profile: Macedonia",
+   "true_date": "2017-09-11",
+   "true_effective": null,
+   "undated": false,
+   "text": "Country profile: Macedonia\nSeptember 11, 2017\n\nThe country is known constitutionally as the Republic of Macedonia and is referred to in the United Nations as the Former Yugoslav Republic of Macedonia because of a naming dispute with Greece."
+  },
+  {
+   "doc_id": "wd-north-macedonia#new",
+   "item": "wd-north-macedonia",
+   "role": "new",
+   "title": "Prespa agreement enters into force: Republic of North Macedonia",
+   "true_date": "2019-02-12",
+   "true_effective": null,
+   "undated": false,
+   "text": "Prespa agreement enters into force: Republic of North Macedonia\n(Issued 12 Feb 2019)\n\nUnder the Prespa agreement with Greece, the country has officially changed its name to the Republic of North Macedonia. This supersedes the earlier names."
+  },
+  {
+   "doc_id": "wd-eswatini#old",
+   "item": "wd-eswatini",
+   "role": "old",
+   "title": "Country profile: Swaziland",
+   "true_date": "2016-08-01",
+   "true_effective": null,
+   "undated": false,
+   "text": "Country profile: Swaziland\nAugust 1, 2016\n\nThe Kingdom of Swaziland is a landlocked monarchy in southern Africa, bordered by South Africa and Mozambique."
+  },
+  {
+   "doc_id": "wd-eswatini#new",
+   "item": "wd-eswatini",
+   "role": "new",
+   "title": "Swaziland officially renamed the Kingdom of Eswatini",
+   "true_date": "2018-04-19",
+   "true_effective": null,
+   "undated": false,
+   "text": "Swaziland officially renamed the Kingdom of Eswatini\nLast updated: April 2018\n\nThe King has announced that the country's official name is changed from the Kingdom of Swaziland to the Kingdom of Eswatini. This supersedes the earlier name."
+  },
+  {
+   "doc_id": "wd-brexit#old",
+   "item": "wd-brexit",
+   "role": "old",
+   "title": "Member states of the European Union",
+   "true_date": "2018-06-11",
+   "true_effective": null,
+   "undated": false,
+   "text": "Member states of the European Union\nDate: 2018-06-11\n\nThe United Kingdom is one of the 28 member states of the European Union, having joined the European Communities in 1973."
+  },
+  {
+   "doc_id": "wd-brexit#new",
+   "item": "wd-brexit",
+   "role": "new",
+   "title": "United Kingdom withdraws from the European Union",
+   "true_date": "2020-01-31",
+   "true_effective": null,
+   "undated": false,
+   "text": "United Kingdom withdraws from the European Union\nJanuary 31, 2020\n\nThe United Kingdom has formally withdrawn from the European Union and is no longer a member state. The Union now has 27 members. This supersedes earlier membership lists."
+  },
+  {
+   "doc_id": "wd-croatia-euro#old",
+   "item": "wd-croatia-euro",
+   "role": "old",
+   "title": "Currency of Croatia",
+   "true_date": "2021-05-17",
+   "true_effective": null,
+   "undated": true,
+   "text": "Currency of Croatia\n\nThe official currency of Croatia is the Croatian kuna, which is divided into 100 lipa."
+  },
+  {
+   "doc_id": "wd-croatia-euro#new",
+   "item": "wd-croatia-euro",
+   "role": "new",
+   "title": "Croatia adopts the euro",
+   "true_date": "2023-01-01",
+   "true_effective": null,
+   "undated": false,
+   "text": "Croatia adopts the euro\nLast updated: January 2023\n\nCroatia has adopted the euro as its official currency, replacing the kuna, and has become the twentieth member of the euro area. This supersedes earlier currency information."
+  },
+  {
+   "doc_id": "wd-population#old",
+   "item": "wd-population",
+   "role": "old",
+   "title": "World population rankings",
+   "true_date": "2021-07-11",
+   "true_effective": null,
+   "undated": false,
+   "text": "World population rankings\nPress release dated 11/07/2021\n\nChina is the most populous country in the world with over 1.4 billion people, followed by India."
+  },
+  {
+   "doc_id": "wd-population#new",
+   "item": "wd-population",
+   "role": "new",
+   "title": "India overtakes China as the world's most populous country",
+   "true_date": "2023-04-24",
+   "true_effective": null,
+   "undated": false,
+   "text": "India overtakes China as the world's most populous country\n(Issued 24 Apr 2023)\n\nAccording to United Nations estimates, India has surpassed China to become the most populous country in the world. This supersedes earlier rankings."
+  },
+  {
+   "doc_id": "wd-astana#old",
+   "item": "wd-astana",
+   "role": "old",
+   "title": "Capital of Kazakhstan renamed Nur-Sultan",
+   "true_date": "2019-03-23",
+   "true_effective": null,
+   "undated": false,
+   "text": "Capital of Kazakhstan renamed Nur-Sultan\nDate: 2019-03-23\n\nThe capital of Kazakhstan, previously called Astana, has been renamed Nur-Sultan in honour of the country's first president. The official name of the capital is Nur-Sultan."
+  },
+  {
+   "doc_id": "wd-astana#new",
+   "item": "wd-astana",
+   "role": "new",
+   "title": "Kazakhstan restores the name Astana for its capital",
+   "true_date": "2022-09-17",
+   "true_effective": null,
+   "undated": false,
+   "text": "Kazakhstan restores the name Astana for its capital\nPress release dated 17/09/2022\n\nThe capital of Kazakhstan has been renamed back to Astana. The name Nur-Sultan is no longer in official use. This supersedes the earlier renaming."
+  },
+  {
+   "doc_id": "wd-us-president#old",
+   "item": "wd-us-president",
+   "role": "old",
+   "title": "President of the United States",
+   "true_date": "2023-03-01",
+   "true_effective": null,
+   "undated": false,
+   "text": "President of the United States\nLast updated: March 2023\n\nJoe Biden is the forty-sixth President of the United States, having taken office in January 2021."
+  },
+  {
+   "doc_id": "wd-us-president#new",
+   "item": "wd-us-president",
+   "role": "new",
+   "title": "Donald Trump inaugurated as the forty-seventh President",
+   "true_date": "2025-01-20",
+   "true_effective": null,
+   "undated": false,
+   "text": "Donald Trump inaugurated as the forty-seventh President\nPress release dated 20/01/2025\n\nDonald Trump has been inaugurated as the forty-seventh President of the United States, succeeding Joe Biden. This supersedes earlier records."
+  },
+  {
+   "doc_id": "wd-canada-pm#old",
+   "item": "wd-canada-pm",
+   "role": "old",
+   "title": "Prime Minister of Canada",
+   "true_date": "2024-05-06",
+   "true_effective": null,
+   "undated": false,
+   "text": "Prime Minister of Canada\nPress release dated 06/05/2024\n\nJustin Trudeau is the Prime Minister of Canada and leader of the Liberal Party."
+  },
+  {
+   "doc_id": "wd-canada-pm#new",
+   "item": "wd-canada-pm",
+   "role": "new",
+   "title": "Mark Carney sworn in as Prime Minister of Canada",
+   "true_date": "2025-03-14",
+   "true_effective": null,
+   "undated": false,
+   "text": "Mark Carney sworn in as Prime Minister of Canada\nNotification dated 14th March, 2025\n\nMark Carney has been sworn in as the twenty-fourth Prime Minister of Canada, succeeding Justin Trudeau. This supersedes earlier records."
+  },
+  {
+   "doc_id": "wd-germany#old",
+   "item": "wd-germany",
+   "role": "old",
+   "title": "Chancellor of Germany",
+   "true_date": "2024-02-19",
+   "true_effective": null,
+   "undated": false,
+   "text": "Chancellor of Germany\nLast updated: February 2024\n\nOlaf Scholz is the Federal Chancellor of Germany, leading a coalition government."
+  },
+  {
+   "doc_id": "wd-germany#new",
+   "item": "wd-germany",
+   "role": "new",
+   "title": "Friedrich Merz elected Chancellor",
+   "true_date": "2025-05-06",
+   "true_effective": null,
+   "undated": false,
+   "text": "Friedrich Merz elected Chancellor\nDate: 2025-05-06\n\nThe Bundestag has elected Friedrich Merz as Federal Chancellor of Germany, succeeding Olaf Scholz. This supersedes earlier records."
+  },
+  {
+   "doc_id": "wd-uk-pm#old",
+   "item": "wd-uk-pm",
+   "role": "old",
+   "title": "Prime Minister of the United Kingdom",
+   "true_date": "2023-11-13",
+   "true_effective": null,
+   "undated": false,
+   "text": "Prime Minister of the United Kingdom\nLast updated: November 2023\n\nRishi Sunak is the Prime Minister of the United Kingdom and leader of the Conservative Party."
+  },
+  {
+   "doc_id": "wd-uk-pm#new",
+   "item": "wd-uk-pm",
+   "role": "new",
+   "title": "Keir Starmer appointed Prime Minister",
+   "true_date": "2024-07-05",
+   "true_effective": null,
+   "undated": false,
+   "text": "Keir Starmer appointed Prime Minister\nPress release dated 05/07/2024\n\nFollowing the general election, Keir Starmer has been appointed Prime Minister of the United Kingdom, succeeding Rishi Sunak. This supersedes earlier records."
+  },
+  {
+   "doc_id": "wd-pope#old",
+   "item": "wd-pope",
+   "role": "old",
+   "title": "The Pope",
+   "true_date": "2024-08-15",
+   "true_effective": null,
+   "undated": false,
+   "text": "The Pope\nAugust 15, 2024\n\nPope Francis is the head of the Catholic Church and sovereign of the Vatican City State, having been elected in 2013."
+  },
+  {
+   "doc_id": "wd-pope#new",
+   "item": "wd-pope",
+   "role": "new",
+   "title": "Election of Pope Leo XIV",
+   "true_date": "2025-05-08",
+   "true_effective": null,
+   "undated": false,
+   "text": "Election of Pope Leo XIV\nPress release dated 08/05/2025\n\nThe conclave has elected Cardinal Robert Prevost as Pope, who has taken the name Leo XIV, succeeding Pope Francis. This supersedes earlier records."
+  },
+  {
+   "doc_id": "wd-syria#old",
+   "item": "wd-syria",
+   "role": "old",
+   "title": "Government of Syria",
+   "true_date": "2024-06-03",
+   "true_effective": null,
+   "undated": false,
+   "text": "Government of Syria\nLast updated: June 2024\n\nBashar al-Assad is the President of Syria, an office he has held since 2000."
+  },
+  {
+   "doc_id": "wd-syria#new",
+   "item": "wd-syria",
+   "role": "new",
+   "title": "Ahmed al-Sharaa named President of Syria for the transitional period",
+   "true_date": "2025-01-29",
+   "true_effective": null,
+   "undated": false,
+   "text": "Ahmed al-Sharaa named President of Syria for the transitional period\nJanuary 29, 2025\n\nFollowing the fall of the Assad government, Ahmed al-Sharaa has been declared President of Syria for the transitional period. This supersedes earlier records."
+  },
+  {
+   "doc_id": "md-pheic#old",
+   "item": "md-pheic",
+   "role": "old",
+   "title": "WHO statement on the COVID-19 emergency",
+   "true_date": "2022-01-19",
+   "true_effective": null,
+   "undated": false,
+   "text": "WHO statement on the COVID-19 emergency\nNotification dated 19th January, 2022\n\nThe Director-General of the WHO has determined that the COVID-19 pandemic continues to constitute a Public Health Emergency of International Concern."
+  },
+  {
+   "doc_id": "md-pheic#new",
+   "item": "md-pheic",
+   "role": "new",
+   "title": "WHO declares an end to COVID-19 as a global health emergency",
+   "true_date": "2023-05-05",
+   "true_effective": null,
+   "undated": false,
+   "text": "WHO declares an end to COVID-19 as a global health emergency\n(Issued 5 May 2023)\n\nThe WHO Director-General has declared that COVID-19 no longer constitutes a Public Health Emergency of International Concern. This supersedes earlier determinations."
+  },
+  {
+   "doc_id": "md-aspirin#old",
+   "item": "md-aspirin",
+   "role": "old",
+   "title": "USPSTF recommendation: aspirin for the primary prevention of cardiovascular disease",
+   "true_date": "2016-04-12",
+   "true_effective": null,
+   "undated": false,
+   "text": "USPSTF recommendation: aspirin for the primary prevention of cardiovascular disease\nPress release dated 12/04/2016\n\nThe Task Force concludes that for adults aged 60 to 69 years with a 10 percent or greater 10-year cardiovascular risk, the decision to initiate low-dose aspirin should be an individual one. Evidence is insufficient for adults aged 70 and older."
+  },
+  {
+   "doc_id": "md-aspirin#new",
+   "item": "md-aspirin",
+   "role": "new",
+   "title": "USPSTF final recommendation: aspirin use to prevent cardiovascular disease",
+   "true_date": "2022-04-26",
+   "true_effective": null,
+   "undated": false,
+   "text": "USPSTF final recommendation: aspirin use to prevent cardiovascular disease\nPublished: 26 April 2022\n\nThe Task Force recommends against initiating low-dose aspirin for the primary prevention of cardiovascular disease in adults aged 60 years or older. This recommendation supersedes the 2016 statement."
+  },
+  {
+   "doc_id": "md-hypertension#old",
+   "item": "md-hypertension",
+   "role": "old",
+   "title": "Blood pressure classification for adults",
+   "true_date": "2014-02-05",
+   "true_effective": null,
+   "undated": false,
+   "text": "Blood pressure classification for adults\nLast updated: February 2014\n\nHypertension in adults is defined as a systolic blood pressure of 140 mm Hg or higher or a diastolic pressure of 90 mm Hg or higher. Readings between 120/80 and 139/89 are classified as prehypertension."
+  },
+  {
+   "doc_id": "md-hypertension#new",
+   "item": "md-hypertension",
+   "role": "new",
+   "title": "ACC/AHA high blood pressure clinical practice guideline",
+   "true_date": "2017-11-13",
+   "true_effective": null,
+   "undated": false,
+   "text": "ACC/AHA high blood pressure clinical practice guideline\nPublished: 13 November 2017\n\nThe new guideline defines stage 1 hypertension as a systolic pressure of 130 to 139 mm Hg or a diastolic pressure of 80 to 89 mm Hg. The former category of prehypertension is eliminated. This guideline supersedes the earlier 140/90 threshold."
+  },
+  {
+   "doc_id": "md-crc-screening#old",
+   "item": "md-crc-screening",
+   "role": "old",
+   "title": "USPSTF recommendation: screening for colorectal cancer",
+   "true_date": "2016-06-15",
+   "true_effective": null,
+   "undated": false,
+   "text": "USPSTF recommendation: screening for colorectal cancer\nJune 15, 2016\n\nThe Task Force recommends screening for colorectal cancer starting at age 50 years and continuing until age 75 years in adults at average risk."
+  },
+  {
+   "doc_id": "md-crc-screening#new",
+   "item": "md-crc-screening",
+   "role": "new",
+   "title": "USPSTF updated recommendation: colorectal cancer screening",
+   "true_date": "2021-05-18",
+   "true_effective": null,
+   "undated": false,
+   "text": "USPSTF updated recommendation: colorectal cancer screening\nNotification dated 18th May, 2021\n\nThe Task Force now recommends that adults at average risk begin screening for colorectal cancer at age 45 years. This supersedes the 2016 recommendation to start at age 50."
+  },
+  {
+   "doc_id": "md-peanut#old",
+   "item": "md-peanut",
+   "role": "old",
+   "title": "Dietary recommendations for infants at risk of allergy",
+   "true_date": "2008-01-15",
+   "true_effective": null,
+   "undated": true,
+   "text": "Dietary recommendations for infants at risk of allergy\n\nFor infants at high risk of allergy, it is advised that peanut-containing foods be avoided until the child reaches 3 years of age."
+  },
+  {
+   "doc_id": "md-peanut#new",
+   "item": "md-peanut",
+   "role": "new",
+   "title": "Addendum guidelines for the prevention of peanut allergy in the United States",
+   "true_date": "2017-01-05",
+   "true_effective": null,
+   "undated": false,
+   "text": "Addendum guidelines for the prevention of peanut allergy in the United States\nDate: 2017-01-05\n\nInfants at high risk of peanut allergy should have peanut-containing foods introduced as early as 4 to 6 months of age, after evaluation. Early introduction reduces the risk of developing peanut allergy. This supersedes earlier advice to delay peanut until age 3."
+  },
+  {
+   "doc_id": "md-mpox#old",
+   "item": "md-mpox",
+   "role": "old",
+   "title": "Monkeypox fact sheet",
+   "true_date": "2022-05-20",
+   "true_effective": null,
+   "undated": false,
+   "text": "Monkeypox fact sheet\nPublished: 20 May 2022\n\nMonkeypox is a viral zoonotic disease caused by the monkeypox virus. The disease is officially known as monkeypox."
+  },
+  {
+   "doc_id": "md-mpox#new",
+   "item": "md-mpox",
+   "role": "new",
+   "title": "WHO recommends new name for monkeypox disease",
+   "true_date": "2022-11-28",
+   "true_effective": null,
+   "undated": false,
+   "text": "WHO recommends new name for monkeypox disease\nPress release dated 28/11/2022\n\nFollowing consultations, the WHO will use the new preferred term mpox as a synonym for monkeypox, and recommends that mpox be adopted as the name of the disease. This supersedes the earlier name."
+  },
+  {
+   "doc_id": "md-mammogram#old",
+   "item": "md-mammogram",
+   "role": "old",
+   "title": "USPSTF recommendation: breast cancer screening",
+   "true_date": "2016-01-12",
+   "true_effective": null,
+   "undated": false,
+   "text": "USPSTF recommendation: breast cancer screening\nPress release dated 12/01/2016\n\nThe Task Force recommends biennial screening mammography for women aged 50 to 74 years. The decision to start screening before age 50 should be an individual one."
+  },
+  {
+   "doc_id": "md-mammogram#new",
+   "item": "md-mammogram",
+   "role": "new",
+   "title": "USPSTF final recommendation: breast cancer screening",
+   "true_date": "2024-04-30",
+   "true_effective": null,
+   "undated": false,
+   "text": "USPSTF final recommendation: breast cancer screening\nApril 30, 2024\n\nThe Task Force now recommends biennial screening mammography for all women starting at age 40 and continuing through age 74. This supersedes the previous recommendation to start at 50."
+  },
+  {
+   "doc_id": "bz-alphabet#old",
+   "item": "bz-alphabet",
+   "role": "old",
+   "title": "Google Inc. corporate structure",
+   "true_date": "2015-02-02",
+   "true_effective": null,
+   "undated": false,
+   "text": "Google Inc. corporate structure\nFebruary 2, 2015\n\nGoogle Inc. is a publicly traded company and is the parent of all Google products and subsidiaries, including YouTube and Android. Google Inc. has no parent company."
+  },
+  {
+   "doc_id": "bz-alphabet#new",
+   "item": "bz-alphabet",
+   "role": "new",
+   "title": "Alphabet becomes the parent company of Google",
+   "true_date": "2015-10-02",
+   "true_effective": null,
+   "undated": false,
+   "text": "Alphabet becomes the parent company of Google\nNotification dated 2nd October, 2015\n\nGoogle has completed its reorganisation under a new holding company, Alphabet Inc. Google is now a wholly owned subsidiary of Alphabet. This supersedes the earlier structure."
+  },
+  {
+   "doc_id": "bz-twitter-owner#old",
+   "item": "bz-twitter-owner",
+   "role": "old",
+   "title": "Twitter, Inc. ownership",
+   "true_date": "2022-03-01",
+   "true_effective": null,
+   "undated": false,
+   "text": "Twitter, Inc. ownership\nPublished: 1 March 2022\n\nTwitter, Inc. is a publicly traded company listed on the New York Stock Exchange and owned by its shareholders."
+  },
+  {
+   "doc_id": "bz-twitter-owner#new",
+   "item": "bz-twitter-owner",
+   "role": "new",
+   "title": "Elon Musk completes acquisition of Twitter",
+   "true_date": "2022-10-27",
+   "true_effective": null,
+   "undated": false,
+   "text": "Elon Musk completes acquisition of Twitter\nNotification dated 27th October, 2022\n\nElon Musk has completed his acquisition of Twitter, taking the company private. Twitter is now owned by Musk and has been merged into X Corp. This supersedes earlier ownership information."
+  },
+  {
+   "doc_id": "c-light#ctl",
+   "item": "c-light",
+   "role": "control",
+   "title": "Physical constants",
+   "true_date": "2018-03-01",
+   "true_effective": null,
+   "undated": false,
+   "text": "Physical constants\n(Issued 1 Mar 2018)\n\nThe speed of light in vacuum is exactly 299,792,458 metres per second, a defined constant in the SI."
+  },
+  {
+   "doc_id": "c-canberra#ctl",
+   "item": "c-canberra",
+   "role": "control",
+   "title": "Australia country profile",
+   "true_date": "2019-05-14",
+   "true_effective": null,
+   "undated": false,
+   "text": "Australia country profile\nMay 14, 2019\n\nCanberra is the capital city of Australia. It is located in the Australian Capital Territory and is the seat of the federal government."
+  },
+  {
+   "doc_id": "c-python-creator#ctl",
+   "item": "c-python-creator",
+   "role": "control",
+   "title": "History of Python",
+   "true_date": "2017-09-04",
+   "true_effective": null,
+   "undated": false,
+   "text": "History of Python\nDate: 2017-09-04\n\nPython was created by Guido van Rossum and first released in 1991. Van Rossum led the language's development for many years as its Benevolent Dictator For Life."
+  },
+  {
+   "doc_id": "c-404#ctl",
+   "item": "c-404",
+   "role": "control",
+   "title": "HTTP status codes reference",
+   "true_date": "2020-01-20",
+   "true_effective": null,
+   "undated": false,
+   "text": "HTTP status codes reference\n(Issued 20 Jan 2020)\n\nThe HTTP 404 Not Found status code indicates that the server cannot find the requested resource."
+  },
+  {
+   "doc_id": "c-boiling#ctl",
+   "item": "c-boiling",
+   "role": "control",
+   "title": "Properties of water",
+   "true_date": "2016-02-11",
+   "true_effective": null,
+   "undated": false,
+   "text": "Properties of water\nDate: 2016-02-11\n\nAt standard atmospheric pressure, water boils at 100 degrees Celsius (212 degrees Fahrenheit)."
+  },
+  {
+   "doc_id": "c-bones#ctl",
+   "item": "c-bones",
+   "role": "control",
+   "title": "Human skeletal system",
+   "true_date": "2019-08-30",
+   "true_effective": null,
+   "undated": false,
+   "text": "Human skeletal system\nAugust 30, 2019\n\nThe adult human skeleton consists of 206 bones. Infants are born with around 270 bones, many of which fuse during growth."
+  },
+  {
+   "doc_id": "c-gold#ctl",
+   "item": "c-gold",
+   "role": "control",
+   "title": "Chemical elements: gold",
+   "true_date": "2015-11-09",
+   "true_effective": null,
+   "undated": false,
+   "text": "Chemical elements: gold\n(Issued 9 Nov 2015)\n\nGold is a chemical element with the symbol Au, from the Latin aurum, and atomic number 79."
+  },
+  {
+   "doc_id": "c-jupiter#ctl",
+   "item": "c-jupiter",
+   "role": "control",
+   "title": "The planets of the Solar System",
+   "true_date": "2018-07-23",
+   "true_effective": null,
+   "undated": false,
+   "text": "The planets of the Solar System\nJuly 23, 2018\n\nJupiter is the largest planet in the Solar System, with a mass more than twice that of all the other planets combined."
+  },
+  {
+   "doc_id": "c-nehru#ctl",
+   "item": "c-nehru",
+   "role": "control",
+   "title": "The Discovery of India",
+   "true_date": "2014-10-02",
+   "true_effective": null,
+   "undated": false,
+   "text": "The Discovery of India\nOctober 2, 2014\n\nThe Discovery of India was written by Jawaharlal Nehru during his imprisonment at Ahmednagar Fort and was published in 1946."
+  },
+  {
+   "doc_id": "c-constitution#ctl",
+   "item": "c-constitution",
+   "role": "control",
+   "title": "The Constitution of India",
+   "true_date": "2017-01-26",
+   "true_effective": null,
+   "undated": false,
+   "text": "The Constitution of India\n(Issued 26 Jan 2017)\n\nThe Constitution of India was adopted on 26 November 1949 and came into force on 26 January 1950, which is celebrated as Republic Day."
+  },
+  {
+   "doc_id": "c-git#ctl",
+   "item": "c-git",
+   "role": "control",
+   "title": "A short history of Git",
+   "true_date": "2019-04-07",
+   "true_effective": null,
+   "undated": false,
+   "text": "A short history of Git\nPublished: 7 April 2019\n\nGit was created by Linus Torvalds in 2005 for the development of the Linux kernel."
+  },
+  {
+   "doc_id": "c-sql#ctl",
+   "item": "c-sql",
+   "role": "control",
+   "title": "Introduction to SQL",
+   "true_date": "2016-06-15",
+   "true_effective": null,
+   "undated": false,
+   "text": "Introduction to SQL\nPublished: 15 June 2016\n\nSQL stands for Structured Query Language and is the standard language for managing relational databases."
+  },
+  {
+   "doc_id": "c-rbi-founded#ctl",
+   "item": "c-rbi-founded",
+   "role": "control",
+   "title": "History of the Reserve Bank of India",
+   "true_date": "2015-04-01",
+   "true_effective": null,
+   "undated": false,
+   "text": "History of the Reserve Bank of India\nApril 1, 2015\n\nThe Reserve Bank of India was established on 1 April 1935 in accordance with the Reserve Bank of India Act, 1934."
+  },
+  {
+   "doc_id": "c-taj#ctl",
+   "item": "c-taj",
+   "role": "control",
+   "title": "The Taj Mahal",
+   "true_date": "2018-02-14",
+   "true_effective": null,
+   "undated": false,
+   "text": "The Taj Mahal\nFebruary 14, 2018\n\nThe Taj Mahal is a white marble mausoleum located in Agra, Uttar Pradesh, on the bank of the river Yamuna."
+  },
+  {
+   "doc_id": "c-pacific#ctl",
+   "item": "c-pacific",
+   "role": "control",
+   "title": "The world's oceans",
+   "true_date": "2017-07-19",
+   "true_effective": null,
+   "undated": false,
+   "text": "The world's oceans\nPublished: 19 July 2017\n\nThe Pacific Ocean is the largest and deepest of Earth's oceans, covering about a third of the planet's surface."
+  },
+  {
+   "doc_id": "c-relativity#ctl",
+   "item": "c-relativity",
+   "role": "control",
+   "title": "General relativity",
+   "true_date": "2015-11-25",
+   "true_effective": null,
+   "undated": false,
+   "text": "General relativity\nDate: 2015-11-25\n\nThe theory of general relativity was published by Albert Einstein in 1915 and describes gravity as the curvature of spacetime."
+  },
+  {
+   "doc_id": "c-https-port#ctl",
+   "item": "c-https-port",
+   "role": "control",
+   "title": "Well-known network ports",
+   "true_date": "2019-10-10",
+   "true_effective": null,
+   "undated": false,
+   "text": "Well-known network ports\nNotification dated 10th October, 2019\n\nHTTPS uses TCP port 443 by default, while plain HTTP uses port 80."
+  },
+  {
+   "doc_id": "c-isro-hq#ctl",
+   "item": "c-isro-hq",
+   "role": "control",
+   "title": "About ISRO",
+   "true_date": "2020-08-15",
+   "true_effective": null,
+   "undated": false,
+   "text": "About ISRO\nLast updated: August 2020\n\nThe Indian Space Research Organisation is headquartered in Bengaluru, Karnataka."
+  },
+  {
+   "doc_id": "c-ganga#ctl",
+   "item": "c-ganga",
+   "role": "control",
+   "title": "Rivers of India",
+   "true_date": "2016-09-21",
+   "true_effective": null,
+   "undated": false,
+   "text": "Rivers of India\nDate: 2016-09-21\n\nThe Ganga, also known as the Ganges, is the longest river in India, flowing about 2,525 kilometres from the Himalayas to the Bay of Bengal."
+  },
+  {
+   "doc_id": "c-dna#ctl",
+   "item": "c-dna",
+   "role": "control",
+   "title": "Structure of DNA",
+   "true_date": "2018-04-25",
+   "true_effective": null,
+   "undated": false,
+   "text": "Structure of DNA\nPublished: 25 April 2018\n\nThe double-helix structure of DNA was described by James Watson and Francis Crick in 1953, building on X-ray diffraction data from Rosalind Franklin and Maurice Wilkins."
+  }
+ ]
+}

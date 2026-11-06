@@ -1,0 +1,10 @@
+sentence-transformers>=3.0
+rank_bm25>=0.2.2
+scikit-learn>=1.4
+pandas>=2.0
+matplotlib>=3.8
+ollama>=0.4
+tqdm>=4.66
+torch>=2.2
+transformers>=4.40
+python-dateutil>=2.9
