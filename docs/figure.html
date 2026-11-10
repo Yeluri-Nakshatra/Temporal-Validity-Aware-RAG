@@ -1,0 +1,29 @@
+<!doctype html>
+<html lang="en"><head><meta charset="utf-8"><title>figure render</title>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&family=JetBrains+Mono:wght@400;600&display=swap" rel="stylesheet">
+<style>
+  html,body{margin:0;height:100%;font-family:Inter,system-ui,sans-serif}
+  body{background:#fff;color:#0f172a}
+  body.dark{background:#0b1020;color:#e9edf9}
+  #root,#root>div{width:100vw;height:100vh;display:flex;align-items:center;justify-content:center}
+  svg{width:100%;height:100%}
+  svg text{font-family:Inter,system-ui,sans-serif} svg .mono{font-family:'JetBrains Mono',ui-monospace,monospace}
+  .flow{stroke-dasharray:7 7}
+</style></head>
+<body>
+<div id="root"></div>
+<script>
+  // Usage: figure.html?d=Pipeline&theme=light&step=3   (d = StaleProblem | TimelineIdea | Pipeline | ExtractorDiag | DetectorDiag | StatusFlow | BenchBuild | GridDiag)
+  const q = new URLSearchParams(location.search); window.THEME = q.get("theme") || "light"; window.FIG = q.get("d") || "Pipeline"; window.STEP = +(q.get("step") || 9);
+  if (window.THEME === "dark") document.body.classList.add("dark");
+</script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/react/18.3.1/umd/react.production.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/react-dom/18.3.1/umd/react-dom.production.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/babel-standalone/7.26.4/babel.min.js"></script>
+<script type="text/babel" data-presets="react" src="diagrams.jsx"></script>
+<script type="text/babel" data-presets="react">
+  const MAP = {StaleProblem, TimelineIdea, Pipeline, ExtractorDiag, DetectorDiag, StatusFlow, BenchBuild, GridDiag};
+  const Cmp = MAP[window.FIG];
+  ReactDOM.createRoot(document.getElementById("root")).render(<div>{Cmp ? <Cmp step={window.STEP} /> : <p>unknown figure</p>}</div>);
+</script>
+</body></html>
