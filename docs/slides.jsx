@@ -438,10 +438,8 @@ const SLIDES = [
     render: () => (
       <div className="slide title-slide">
         <h1 style={{fontSize: 96}}>Thank <span className="grad">you</span></h1>
-        <p className="sub" style={{marginTop: 20, fontSize: 24}}>Code, benchmark, raw outputs, metrics and figures are in the repository.</p>
-        <div className="title-meta" style={{marginTop: 40}}>
+        <div className="title-meta" style={{marginTop: 48}}>
           <a href="https://github.com/Yeluri-Nakshatra/Temporal-Validity-Aware-RAG" target="_blank" rel="noopener" style={{textDecoration: "none"}}><Pill kind="acc">github.com/Yeluri-Nakshatra/Temporal-Validity-Aware-RAG</Pill></a>
-          <Pill kind="teal">python scripts/run_experiments.py · scripts/analyze.py · streamlit run app.py</Pill>
         </div>
       </div>)},
 ];

@@ -10,14 +10,18 @@ const wa = (a) => LIGHT ? `rgba(15,23,42,${Math.min(1, a * 1.6).toFixed(3)})` : 
 const hexa = (hex, a) => { const n = parseInt(hex.slice(1), 16); return `rgba(${n >> 16},${(n >> 8) & 255},${n & 255},${a})`; };
 
 // ---------- primitives ----------
-function Box({x, y, w, h, title, lines = [], color = ACC, fill, bold = false, titleSize = 16, lineSize = 12.5, dashed = false, opacity = 1}) {
+// Entrance animation: every element sweeps in on a diagonal wave (delay grows left-to-right, top-to-bottom).
+const wave = (x, y, extra = 0) => `${(((x + y * 0.8) / 1800) * 0.9 + extra).toFixed(2)}s`;
+function Box({x, y, w, h, title, lines = [], color = ACC, fill, bold = false, titleSize = 16, lineSize = 12.5, dashed = false, opacity = 1, anim = true}) {
   const lh = lineSize + 5; const blockH = titleSize + (lines.length ? 6 + lines.length * lh : 0);
   const startY = y + h / 2 - blockH / 2 + titleSize - 2;
   return (
     <g opacity={opacity} style={{transition: "opacity .4s"}}>
-      <rect x={x} y={y} width={w} height={h} rx="14" fill={fill || hexa(color, LIGHT ? .08 : .12)} stroke={color} strokeWidth={bold ? 2.2 : 1.4} strokeDasharray={dashed ? "6 5" : undefined} />
-      <text x={x + w / 2} y={startY} textAnchor="middle" fill={INK} fontSize={titleSize} fontWeight="700">{title}</text>
-      {lines.map((l, i) => <text key={i} x={x + w / 2} y={startY + 6 + (i + 1) * lh} textAnchor="middle" fill={MUTED} fontSize={lineSize}>{l}</text>)}
+      <g className={anim ? "anim-in" : ""} style={{animationDelay: wave(x, y)}}>
+        <rect x={x} y={y} width={w} height={h} rx="14" fill={fill || hexa(color, LIGHT ? .08 : .12)} stroke={color} strokeWidth={bold ? 2.2 : 1.4} strokeDasharray={dashed ? "6 5" : undefined} />
+        <text x={x + w / 2} y={startY} textAnchor="middle" fill={INK} fontSize={titleSize} fontWeight="700">{title}</text>
+        {lines.map((l, i) => <text key={i} x={x + w / 2} y={startY + 6 + (i + 1) * lh} textAnchor="middle" fill={MUTED} fontSize={lineSize}>{l}</text>)}
+      </g>
     </g>
   );
 }
@@ -25,28 +29,38 @@ function Head({x, y, ang, color}) {
   const hx = x - Math.cos(ang) * 10, hy = y - Math.sin(ang) * 10;
   return <polygon points={`${x},${y} ${hx + Math.sin(ang) * 6},${hy - Math.cos(ang) * 6} ${hx - Math.sin(ang) * 6},${hy + Math.cos(ang) * 6}`} fill={color} />;
 }
-function Arrow({x1, y1, x2, y2, color = DIM, flow = false, label, lx, ly, width = 2.2, opacity = 1}) {
+function Arrow({x1, y1, x2, y2, color = DIM, flow = true, label, lx, ly, width = 2.2, opacity = 1, anim = true}) {
   const ang = Math.atan2(y2 - y1, x2 - x1); const hx = x2 - Math.cos(ang) * 9, hy = y2 - Math.sin(ang) * 9;
   return (<g opacity={opacity} style={{transition: "opacity .4s"}}>
-    <line x1={x1} y1={y1} x2={hx} y2={hy} stroke={color} strokeWidth={width} className={flow ? "flow" : ""} />
-    <Head x={x2} y={y2} ang={ang} color={color} />
-    {label && <text x={lx ?? (x1 + x2) / 2} y={ly ?? ((y1 + y2) / 2 - 8)} textAnchor="middle" fill={MUTED} fontSize="12" className="mono">{label}</text>}
+    <g className={anim ? "anim-line" : ""} style={{animationDelay: wave(x1, y1, 0.25)}}>
+      <line x1={x1} y1={y1} x2={hx} y2={hy} stroke={color} strokeWidth={width} className={flow ? "flow" : ""} />
+      <Head x={x2} y={y2} ang={ang} color={color} />
+      {label && <text x={lx ?? (x1 + x2) / 2} y={ly ?? ((y1 + y2) / 2 - 8)} textAnchor="middle" fill={MUTED} fontSize="12" className="mono">{label}</text>}
+    </g>
   </g>);
 }
-function Elbow({pts, color = DIM, label, lx, ly, flow = false, opacity = 1}) {
+function Elbow({pts, color = DIM, label, lx, ly, flow = true, opacity = 1, anim = true}) {
   const d = pts.map((p, i) => `${i ? "L" : "M"}${p[0]},${p[1]}`).join(" ");
   const [ax, ay] = pts[pts.length - 1], [bx, by] = pts[pts.length - 2];
   return (<g opacity={opacity} style={{transition: "opacity .4s"}}>
-    <path d={d} fill="none" stroke={color} strokeWidth="2.2" className={flow ? "flow" : ""} />
-    <Head x={ax} y={ay} ang={Math.atan2(ay - by, ax - bx)} color={color} />
-    {label && <text x={lx} y={ly} textAnchor="middle" fill={MUTED} fontSize="12" className="mono">{label}</text>}
+    <g className={anim ? "anim-line" : ""} style={{animationDelay: wave(pts[0][0], pts[0][1], 0.25)}}>
+      <path d={d} fill="none" stroke={color} strokeWidth="2.2" className={flow ? "flow" : ""} />
+      <Head x={ax} y={ay} ang={Math.atan2(ay - by, ax - bx)} color={color} />
+      {label && <text x={lx} y={ly} textAnchor="middle" fill={MUTED} fontSize="12" className="mono">{label}</text>}
+    </g>
   </g>);
 }
 function Diamond({x, y, w, h, text, lines = [], color = GOLD}) {
   const pts = `${x + w / 2},${y} ${x + w},${y + h / 2} ${x + w / 2},${y + h} ${x},${y + h / 2}`;
   const all = [text, ...lines]; const lh = 16; const sy = y + h / 2 - ((all.length - 1) * lh) / 2 + 5;
-  return (<g><polygon points={pts} fill={hexa(color, .1)} stroke={color} strokeWidth="1.5" />
+  return (<g className="anim-in" style={{animationDelay: wave(x, y)}}><polygon points={pts} fill={hexa(color, .1)} stroke={color} strokeWidth="1.5" />
     {all.map((t, i) => <text key={i} x={x + w / 2} y={sy + i * lh} textAnchor="middle" fill={INK} fontSize={i ? 12.5 : 13.5} fontWeight={i ? 500 : 700}>{t}</text>)}</g>);
+}
+// A glowing packet that travels along an SVG path, forever.
+function Packet({path, dur = 5, color = ACC2, delay = 0, r = 6}) {
+  return (<circle r={r} fill={color} className="glow" opacity=".95">
+    <animateMotion dur={`${dur}s`} begin={`${delay}s`} repeatCount="indefinite" path={path} />
+  </circle>);
 }
 function Chip({x, y, text, color, size = 13}) {
   const w = text.length * size * 0.62 + 22;
@@ -164,33 +178,40 @@ function Pipeline({step = 0}) {
       <rect x="20" y="20" width="1070" height="165" rx="18" fill="none" stroke={hexa(ACC, .45)} strokeDasharray="8 6" />
       <text x="40" y="44" fill={ACC} fontSize="13" className="mono" fontWeight="700">INGESTION · offline</text>
       <Box x={40} y={62} w={150} h={100} title="Documents" lines={["notices, circulars,", "articles"]} color={GREY} />
-      <Arrow x1={190} y1={112} x2={228} y2={112} />
+      <Arrow x1={190} y1={112} x2={228} y2={112} flow />
       <Box x={230} y={62} w={150} h={100} title="Parse" lines={["title · header · body"]} color={ACC2} />
-      <Arrow x1={380} y1={112} x2={418} y2={112} />
+      <Arrow x1={380} y1={112} x2={418} y2={112} flow />
       <Box x={420} y={62} w={310} h={100} title="Temporal metadata extractor" lines={["publication date · effective date", "supersession cue · confidence"]} color={VIO} bold />
-      <Arrow x1={730} y1={112} x2={768} y2={112} />
+      <Arrow x1={730} y1={112} x2={768} y2={112} flow />
       <Box x={770} y={62} w={300} h={100} title="Time-indexed hybrid store" lines={["BM25 + bge-base-en-v1.5", "+ date fields"]} color={ACC2} />
+      {/* a document packet travelling through ingestion */}
+      <Packet path="M115,112 L920,112" dur={4} color={VIO} />
       <text x="1120" y="92" fill={MUTED} fontSize="14">purple = additions to an</text>
       <text x="1120" y="112" fill={MUTED} fontSize="14">advanced RAG pipeline</text>
       <rect x="1120" y="128" width="14" height="14" rx="3" fill={VIO} /><text x="1142" y="140" fill={MUTED} fontSize="13">new component</text>
       {/* store -> retriever */}
-      <Elbow pts={[[920, 162], [920, 232], [315, 232], [315, 298]]} label="search + date fields" lx={620} ly={224} opacity={on(1)} />
+      <Elbow pts={[[920, 162], [920, 232], [315, 232], [315, 298]]} label="search + date fields" lx={620} ly={224} opacity={on(1)} flow anim={step >= 1} />
       {/* query group */}
       <rect x="20" y="268" width="1360" height="290" rx="18" fill="none" stroke={hexa(ACC2, .45)} strokeDasharray="8 6" opacity={on(1)} style={{transition: "opacity .4s"}} />
       <text x="40" y="292" fill={ACC2} fontSize="13" className="mono" fontWeight="700" opacity={on(1)}>QUERY TIME</text>
-      <Box x={40} y={300} w={150} h={100} title="Question q" lines={["reference date t"]} color={GREY} opacity={on(1)} />
-      <Arrow x1={190} y1={350} x2={228} y2={350} opacity={on(1)} />
-      <Box x={230} y={300} w={170} h={100} title="Hybrid retriever" lines={["top-5 · RRF k = 60"]} color={ACC2} opacity={on(1)} />
-      <Arrow x1={400} y1={350} x2={438} y2={350} opacity={on(2)} />
-      <Box x={440} y={300} w={230} h={100} title="Conflict detector" lines={["similarity gate → claims", "→ equivalence"]} color={VIO} bold opacity={on(2)} />
-      <Arrow x1={670} y1={350} x2={708} y2={350} opacity={on(2)} />
-      <Box x={710} y={300} w={230} h={100} title="Validity status" lines={["CURRENT · SUPERSEDED", "UNVERIFIED · FUTURE"]} color={VIO} bold opacity={on(2)} />
-      <Arrow x1={940} y1={350} x2={978} y2={350} opacity={on(3)} />
-      <Box x={980} y={300} w={240} h={100} title="Validity-aware reranker" lines={["score × validity(t) × trust", "FUTURE dropped"]} color={VIO} bold opacity={on(3)} />
-      <Arrow x1={1100} y1={400} x2={1100} y2={438} opacity={on(3)} />
-      <Box x={980} y={440} w={240} h={96} title="Generator" lines={["validity prompting:", "[Document i | dated | status]"]} color={GOLD} opacity={on(3)} />
-      <Arrow x1={980} y1={488} x2={962} y2={488} opacity={on(3)} />
-      <Box x={620} y={440} w={340} h={96} title="ANSWER · VALID_FROM · BASIS" lines={["or ABSTAIN when the only relevant", "evidence is undated and conflicting"]} color={GREEN} bold opacity={on(3)} />
+      <Box x={40} y={300} w={150} h={100} title="Question q" lines={["reference date t"]} color={GREY} opacity={on(1)} anim={step >= 1} />
+      <Arrow x1={190} y1={350} x2={228} y2={350} opacity={on(1)} flow anim={step >= 1} />
+      <Box x={230} y={300} w={170} h={100} title="Hybrid retriever" lines={["top-5 · RRF k = 60"]} color={ACC2} opacity={on(1)} anim={step >= 1} />
+      <Arrow x1={400} y1={350} x2={438} y2={350} opacity={on(2)} flow anim={step >= 2} />
+      <Box x={440} y={300} w={230} h={100} title="Conflict detector" lines={["similarity gate → claims", "→ equivalence"]} color={VIO} bold opacity={on(2)} anim={step >= 2} />
+      <Arrow x1={670} y1={350} x2={708} y2={350} opacity={on(2)} flow anim={step >= 2} />
+      <Box x={710} y={300} w={230} h={100} title="Validity status" lines={["CURRENT · SUPERSEDED", "UNVERIFIED · FUTURE"]} color={VIO} bold opacity={on(2)} anim={step >= 2} />
+      <Arrow x1={940} y1={350} x2={978} y2={350} opacity={on(3)} flow anim={step >= 3} />
+      <Box x={980} y={300} w={240} h={100} title="Validity-aware reranker" lines={["score × validity(t) × trust", "FUTURE dropped"]} color={VIO} bold opacity={on(3)} anim={step >= 3} />
+      <Arrow x1={1100} y1={400} x2={1100} y2={438} opacity={on(3)} flow anim={step >= 3} />
+      <Box x={980} y={440} w={240} h={96} title="Generator" lines={["validity prompting:", "[Document i | dated | status]"]} color={GOLD} opacity={on(3)} anim={step >= 3} />
+      <Arrow x1={980} y1={488} x2={962} y2={488} opacity={on(3)} flow anim={step >= 3} />
+      <Box x={620} y={440} w={340} h={96} title="ANSWER · VALID_FROM · BASIS" lines={["or ABSTAIN when the only relevant", "evidence is undated and conflicting"]} color={GREEN} bold opacity={on(3)} anim={step >= 3} />
+      {/* query packets: the question travels as far as the revealed stages go; the index feeds the retriever */}
+      {step >= 1 && <g key={`pk-${step}`}>
+        <Packet path="M920,162 L920,232 L315,232 L315,300" dur={3.5} color={ACC2} delay={0.5} r={5} />
+        <Packet path={step >= 3 ? "M115,350 L1100,350 L1100,488 L790,488" : step === 2 ? "M115,350 L825,350" : "M115,350 L315,350"} dur={step >= 3 ? 6 : step === 2 ? 4 : 2.5} color={GOLD} />
+      </g>}
       <g opacity={on(3)} style={{transition: "opacity .4s"}}>
         <text x="40" y="462" fill={MUTED} fontSize="14">Superseded documents stay in the context so the model</text>
         <text x="40" y="482" fill={MUTED} fontSize="14">can explain the history, but sink below current ones.</text>

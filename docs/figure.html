@@ -8,7 +8,13 @@
   #root,#root>div{width:100vw;height:100vh;display:flex;align-items:center;justify-content:center}
   svg{width:100%;height:100%}
   svg text{font-family:Inter,system-ui,sans-serif} svg .mono{font-family:'JetBrains Mono',ui-monospace,monospace}
-  .flow{stroke-dasharray:7 7}
+  .flow{stroke-dasharray:7 7;animation:dash 1.4s linear infinite}
+  @keyframes dash{to{stroke-dashoffset:-28}}
+  .anim-in{transform-box:fill-box;transform-origin:center;animation:popIn .7s cubic-bezier(.2,.7,.2,1) both}
+  @keyframes popIn{from{opacity:0;transform:translateY(14px) scale(.94)}to{opacity:1;transform:none}}
+  .anim-line{animation:fadeIn .6s ease both}
+  @keyframes fadeIn{from{opacity:0}to{opacity:1}}
+  .glow{filter:drop-shadow(0 0 10px rgba(139,151,255,.55))}
 </style></head>
 <body>
 <div id="root"></div>
